@@ -1,0 +1,3470 @@
+[
+  {
+    "instance_id": 1887188832,
+    "rating": 0,
+    "date_added": "2025-01-04T13:21:52-08:00",
+    "basic_information": {
+      "id": 9387468,
+      "title": "Glory Of Love",
+      "year": 1967,
+      "artists": [
+        {
+          "name": "Herbie Mann",
+          "id": 30721,
+          "resource_url": "https://api.discogs.com/artists/30721"
+        }
+      ],
+      "labels": [
+        {
+          "name": "A&M Records",
+          "id": 904,
+          "catno": "SP 3003",
+          "resource_url": "https://api.discogs.com/labels/904"
+        },
+        {
+          "name": "A&M Records",
+          "id": 904,
+          "catno": "SP-3003",
+          "resource_url": "https://api.discogs.com/labels/904"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/O88wRv5vni37WXuky41DIBbCgkKSFYnrEXV8t1RsRDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODc0/NjgtMTQ3OTY2NzQz/MS0xMTIxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/g8fYmL2mJoyU-Q0Qta3trnBPuWzOBa1VcslDC_zddJw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODc0/NjgtMTQ3OTY2NzQz/MS0xMTIxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9387468"
+    },
+    "id": 9387468
+  },
+  {
+    "instance_id": 1887114720,
+    "rating": 0,
+    "date_added": "2025-01-04T12:31:25-08:00",
+    "basic_information": {
+      "id": 25243042,
+      "title": "The Fantastic Expedition Of Dillard & Clark",
+      "year": 2022,
+      "artists": [
+        {
+          "name": "Dillard & Clark",
+          "id": 178819,
+          "resource_url": "https://api.discogs.com/artists/178819"
+        }
+      ],
+      "labels": [
+        {
+          "name": "A&M Records",
+          "id": 904,
+          "catno": "IR-031",
+          "resource_url": "https://api.discogs.com/labels/904"
+        },
+        {
+          "name": "Intervention Records",
+          "id": 604736,
+          "catno": "IR-031",
+          "resource_url": "https://api.discogs.com/labels/604736"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/1f5_c23QLucTYhqUPQlLWcKtQhmcPgxMiF_sZOXL_W0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQz/MDQyLTE2NjkwODQ0/MjktNzM2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lYBE_Usb2NpSkZ1bIcG7ERDYqN2ygt6Cjm_X8-rbcwM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQz/MDQyLTE2NjkwODQ0/MjktNzM2MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25243042"
+    },
+    "id": 25243042
+  },
+  {
+    "instance_id": 1944037707,
+    "rating": 0,
+    "date_added": "2025-02-23T14:32:46-08:00",
+    "basic_information": {
+      "id": 32852343,
+      "title": "Roi De L'Agbadja Moderne",
+      "year": 2025,
+      "artists": [
+        {
+          "name": "Gnonnas Pedro Et Ses Dadjes",
+          "id": 1474819,
+          "resource_url": "https://api.discogs.com/artists/1474819"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Analog Africa",
+          "id": 114311,
+          "catno": "AALP 100",
+          "resource_url": "https://api.discogs.com/labels/114311"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/L72xKUql2u-xAZZyM8c0ei06spYLm1qveb7kXLMws08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODUy/MzQzLTE3Mzc1NDk1/NDctNjM3NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/0CyIkBwtTdh6jykeoN4qgb2ljRxftrUM72fWKsZs05E/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODUy/MzQzLTE3Mzc1NDk1/NDctNjM3NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32852343"
+    },
+    "id": 32852343
+  },
+  {
+    "instance_id": 1890162114,
+    "rating": 0,
+    "date_added": "2025-01-06T18:00:27-08:00",
+    "basic_information": {
+      "id": 23098613,
+      "title": "The Boss Of The Blues Sings Kansas City Jazz",
+      "year": 2022,
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "id": 311742,
+          "resource_url": "https://api.discogs.com/artists/311742"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "id": 681,
+          "catno": "1234",
+          "resource_url": "https://api.discogs.com/labels/681"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo",
+            "Mono"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/KCftsn28yV8Ubn-joEbxd_EKUe1ExdBY99TkTYk6naE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk4/NjEzLTE2NTE1OTA1/MzAtMTM4MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/-KBkiBKqD7xdkMSSX7j5LTDmS10Rjok9mfYjfWC4uJ8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk4/NjEzLTE2NTE1OTA1/MzAtMTM4MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23098613"
+    },
+    "id": 23098613
+  },
+  {
+    "instance_id": 1889756868,
+    "rating": 0,
+    "date_added": "2025-01-06T11:31:39-08:00",
+    "basic_information": {
+      "id": 4052030,
+      "title": "Aretha Arrives",
+      "year": 1967,
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "id": 38863,
+          "resource_url": "https://api.discogs.com/artists/38863"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "id": 681,
+          "catno": "SD 8150",
+          "resource_url": "https://api.discogs.com/labels/681"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/aPHIGGmzzKAoqRCXgMRK10iq1h1YitXAZ5RNGlVNGBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTIw/MzAtMTQyOTg4Njcx/NS03NjkxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/DsCxHYEhgSaqL86RdEtYRFpfaqhM7meScnB3qaiOkCk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTIw/MzAtMTQyOTg4Njcx/NS03NjkxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4052030"
+    },
+    "id": 4052030
+  },
+  {
+    "instance_id": 2016298386,
+    "rating": 0,
+    "date_added": "2025-05-03T13:36:36-07:00",
+    "basic_information": {
+      "id": 6998968,
+      "title": "In The Music......The Village Never Ends",
+      "year": 2015,
+      "artists": [
+        {
+          "name": "Letta Mbulu",
+          "id": 97988,
+          "resource_url": "https://api.discogs.com/artists/97988"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Be With Records",
+          "id": 677500,
+          "catno": "BEWITH006LP",
+          "resource_url": "https://api.discogs.com/labels/677500"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/zwtjcIadtldJ1r9DCL-q9qrtgNnn9_e9ukay-WQ_A9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTg5/NjgtMTU5NTQ4ODk0/NC01MjYzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/QPjXu8IVJdBWTtInYzfWrqN1O0a9-2QwKAj-wxQsUg8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5OTg5/NjgtMTU5NTQ4ODk0/NC01MjYzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6998968"
+    },
+    "id": 6998968
+  },
+  {
+    "instance_id": 2016299745,
+    "rating": 0,
+    "date_added": "2025-05-03T13:37:51-07:00",
+    "basic_information": {
+      "id": 27167805,
+      "title": "Do It Again / Don't Stop",
+      "year": 2021,
+      "artists": [
+        {
+          "name": "Asso",
+          "id": 33454,
+          "resource_url": "https://api.discogs.com/artists/33454"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Best Record Italy",
+          "id": 814792,
+          "catno": "BST-X028",
+          "resource_url": "https://api.discogs.com/labels/814792"
+        },
+        {
+          "name": "Ace Records (4)",
+          "id": 153981,
+          "catno": "AC 1020",
+          "resource_url": "https://api.discogs.com/labels/153981"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "12\"",
+            "33 ⅓ RPM",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/Qh-rr6C9KBUL-BddSR4wU9qmHh98T89eH4svkLQ0iCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTY3/ODA1LTE2ODQ4NTc3/NjEtOTk1NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xwYSKjnESTvR8G3cRu5kWUY5q0Kt4tYj84VYx78EQ8s/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTY3/ODA1LTE2ODQ4NTc3/NjEtOTk1NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27167805"
+    },
+    "id": 27167805
+  },
+  {
+    "instance_id": 1944035652,
+    "rating": 0,
+    "date_added": "2025-02-23T14:30:54-08:00",
+    "basic_information": {
+      "id": 9876768,
+      "title": "Lovin' Mighty Fire (Nippon Funk • Soul • Disco 1973-1983)",
+      "year": 2017,
+      "artists": [
+        {
+          "name": "Various",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "BGP Records",
+          "id": 7305,
+          "catno": "XXQLP2 046",
+          "resource_url": "https://api.discogs.com/labels/7305"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/Ir190dMWsjuUFosA11wOCrqS_r6Iwk0ANtwfIhPnQo8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzY3/NjgtMTUzNDM2MzAw/OC01MDMxLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/xXT-yC9K9rNe-BLR6S1NIETEiAHS24DQImesGCNLBIE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzY3/NjgtMTUzNDM2MzAw/OC01MDMxLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9876768"
+    },
+    "id": 9876768
+  },
+  {
+    "instance_id": 2022038004,
+    "rating": 0,
+    "date_added": "2025-05-11T17:56:58-07:00",
+    "basic_information": {
+      "id": 31440050,
+      "title": "Perak",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "id": 12856028,
+          "resource_url": "https://api.discogs.com/artists/12856028"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Big Crown Records",
+          "id": 979925,
+          "catno": "BC179-LP",
+          "resource_url": "https://api.discogs.com/labels/979925"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/lEiaInbcbtfamaHbdtkylruHl0-vHZbk-qArPPBruI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/MDUwLTE3MjMyODQx/NDMtNjY4MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/RmRLGYX4vClmpwLklmvJlZv5g0emFTpsAwLPeDHendM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDQw/MDUwLTE3MjMyODQx/NDMtNjY4MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31440050"
+    },
+    "id": 31440050
+  },
+  {
+    "instance_id": 1955814314,
+    "rating": 0,
+    "date_added": "2025-03-06T19:27:08-08:00",
+    "basic_information": {
+      "id": 27266637,
+      "title": "Slow Drag",
+      "year": 2023,
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "id": 20956,
+          "resource_url": "https://api.discogs.com/artists/20956"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Blue Note",
+          "id": 281,
+          "catno": "B0034364-01",
+          "resource_url": "https://api.discogs.com/labels/281"
+        },
+        {
+          "name": "Blue Note",
+          "id": 281,
+          "catno": "BST 84292",
+          "resource_url": "https://api.discogs.com/labels/281"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/d9_XH3cMPE-gwBSJ1ENzqNnNnoNJ0U7P3Fh5ATJqvno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY2/NjM3LTE2ODU3NTA1/OTktOTU3OS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/pfiRvAJlbA3J7qUkwsE90VtSlzkA6kj6-BWMUSgNslE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjY2/NjM3LTE2ODU3NTA1/OTktOTU3OS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27266637"
+    },
+    "id": 27266637
+  },
+  {
+    "instance_id": 1955873009,
+    "rating": 0,
+    "date_added": "2025-03-06T21:54:21-08:00",
+    "basic_information": {
+      "id": 26833247,
+      "title": "Little Johnny C",
+      "year": 2023,
+      "artists": [
+        {
+          "name": "Johnny Coles",
+          "id": 255109,
+          "resource_url": "https://api.discogs.com/artists/255109"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Blue Note",
+          "id": 281,
+          "catno": "5504144",
+          "resource_url": "https://api.discogs.com/labels/281"
+        },
+        {
+          "name": "Blue Note",
+          "id": 281,
+          "catno": "00602455041449",
+          "resource_url": "https://api.discogs.com/labels/281"
+        },
+        {
+          "name": "UMe",
+          "id": 68029,
+          "catno": "5504144",
+          "resource_url": "https://api.discogs.com/labels/68029"
+        },
+        {
+          "name": "UMe",
+          "id": 68029,
+          "catno": "00602455041449",
+          "resource_url": "https://api.discogs.com/labels/68029"
+        },
+        {
+          "name": "Blue Note",
+          "id": 281,
+          "catno": "84144",
+          "resource_url": "https://api.discogs.com/labels/281"
+        },
+        {
+          "name": "Blue Note",
+          "id": 281,
+          "catno": "ST-84144",
+          "resource_url": "https://api.discogs.com/labels/281"
+        },
+        {
+          "name": "Blue Note",
+          "id": 281,
+          "catno": "BST 84144",
+          "resource_url": "https://api.discogs.com/labels/281"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/FwRkmxqohjbYHT2o1r8g1NW6tNnS2ddwm1FuxD43Dg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMz/MjQ3LTE2ODIwODk3/ODMtNjU5NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/e6RIpE0uWYVb6ok_pgnOOX2sCXiSrilrUUN8V5tpHek/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODMz/MjQ3LTE2ODIwODk3/ODMtNjU5NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26833247"
+    },
+    "id": 26833247
+  },
+  {
+    "instance_id": 1949444271,
+    "rating": 0,
+    "date_added": "2025-02-28T18:42:07-08:00",
+    "basic_information": {
+      "id": 20316430,
+      "title": "Maiden Voyage",
+      "year": 2021,
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "id": 3865,
+          "resource_url": "https://api.discogs.com/artists/3865"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Blue Note",
+          "id": 281,
+          "catno": "3593196",
+          "resource_url": "https://api.discogs.com/labels/281"
+        },
+        {
+          "name": "UMe",
+          "id": 68029,
+          "catno": "3593196",
+          "resource_url": "https://api.discogs.com/labels/68029"
+        },
+        {
+          "name": "UMe",
+          "id": 68029,
+          "catno": "00602435931968",
+          "resource_url": "https://api.discogs.com/labels/68029"
+        },
+        {
+          "name": "Blue Note",
+          "id": 281,
+          "catno": "84195",
+          "resource_url": "https://api.discogs.com/labels/281"
+        },
+        {
+          "name": "Blue Note",
+          "id": 281,
+          "catno": "ST-84195",
+          "resource_url": "https://api.discogs.com/labels/281"
+        },
+        {
+          "name": "Blue Note",
+          "id": 281,
+          "catno": "BST 84195",
+          "resource_url": "https://api.discogs.com/labels/281"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/1Iaf33Ou1PC7ESF6wtHjlG8tGDAcn3VEc0RmWbgKs60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzE2/NDMwLTE2MzgyODcz/MTYtNzM2NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/abiZnITK97i_FJKhaqoYWqC2h-6S3tyUCnexauWhapQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzE2/NDMwLTE2MzgyODcz/MTYtNzM2NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20316430"
+    },
+    "id": 20316430
+  },
+  {
+    "instance_id": 1936109853,
+    "rating": 0,
+    "date_added": "2025-02-16T17:00:58-08:00",
+    "basic_information": {
+      "id": 11866619,
+      "title": "Ruido En El Sistema - Static In The System ",
+      "year": 2013,
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "id": 1698745,
+          "resource_url": "https://api.discogs.com/artists/1698745"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Caracol Records",
+          "id": 194225,
+          "catno": "878514000119",
+          "resource_url": "https://api.discogs.com/labels/194225"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/tw9dyHZoT3ehuh_4URe_K1yScRK2MM73aLLikqizoj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY2/NjE5LTE1MjM3NTU1/NDctODEwNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/704HBpUeOgTW3ahx-xiZp98zsVzTkN6ZOsNMEhhCm_Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODY2/NjE5LTE1MjM3NTU1/NDctODEwNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11866619"
+    },
+    "id": 11866619
+  },
+  {
+    "instance_id": 1887097764,
+    "rating": 0,
+    "date_added": "2025-01-04T12:19:49-08:00",
+    "basic_information": {
+      "id": 4970011,
+      "title": "Portrait Of John Williams",
+      "year": 1982,
+      "artists": [
+        {
+          "name": "John Williams (7)",
+          "id": 337094,
+          "resource_url": "https://api.discogs.com/artists/337094"
+        }
+      ],
+      "labels": [
+        {
+          "name": "CBS Masterworks",
+          "id": 46453,
+          "catno": "M 37791",
+          "resource_url": "https://api.discogs.com/labels/46453"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/wZYOV7ZwmxBxrmZCe6PEv4Hsm0MPM7LC9NweIRR8-Ds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzAw/MTEtMTQ0NjcxOTg5/Mi00OTEwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/GyLrTvBMq0xgTaHfLdXlebREJ5Di1nNhW1X-363ydzM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzAw/MTEtMTQ0NjcxOTg5/Mi00OTEwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4970011"
+    },
+    "id": 4970011
+  },
+  {
+    "instance_id": 2008349934,
+    "rating": 0,
+    "date_added": "2025-04-25T12:22:23-07:00",
+    "basic_information": {
+      "id": 26828174,
+      "title": "The Muddy Waters Woodstock Album",
+      "year": 2023,
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "id": 59246,
+          "resource_url": "https://api.discogs.com/artists/59246"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Chess",
+          "id": 33931,
+          "catno": "620885",
+          "resource_url": "https://api.discogs.com/labels/33931"
+        },
+        {
+          "name": "Elemental Music",
+          "id": 58690,
+          "catno": "620885",
+          "resource_url": "https://api.discogs.com/labels/58690"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Record Store Day",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/SdyK6V6f09l2Qed1PT6-8gdS-CIUjczBFh0cCEBoc04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTc0LTE3MDUzMjcz/MzMtNzUzMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/tFBMvDuMDKoesXdkHR2kM_cIjQAlOB9irVDmMDEAoXA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI4/MTc0LTE3MDUzMjcz/MzMtNzUzMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26828174"
+    },
+    "id": 26828174
+  },
+  {
+    "instance_id": 1887143625,
+    "rating": 0,
+    "date_added": "2025-01-04T12:50:58-08:00",
+    "basic_information": {
+      "id": 31200277,
+      "title": "Charm",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "Clairo (2)",
+          "id": 6512329,
+          "resource_url": "https://api.discogs.com/artists/6512329"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Clairo Records",
+          "id": 3775436,
+          "catno": "C-196922870552",
+          "resource_url": "https://api.discogs.com/labels/3775436"
+        },
+        {
+          "name": "Good Buddy",
+          "id": 1718867,
+          "catno": "C-196922870552",
+          "resource_url": "https://api.discogs.com/labels/1718867"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/udopw05SktvFU9UW-J66bMoigUSekekXb3_EUDpz3fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjAw/Mjc3LTE3MjY4NTg1/MTItMTI1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/m-rUowWBpXLwwA8cww3pLhmOY-3kXiJlGjqco08SHmA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjAw/Mjc3LTE3MjY4NTg1/MTItMTI1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31200277"
+    },
+    "id": 31200277
+  },
+  {
+    "instance_id": 1897042116,
+    "rating": 0,
+    "date_added": "2025-01-12T13:00:42-08:00",
+    "basic_information": {
+      "id": 7146187,
+      "title": "Coming Home",
+      "year": 2015,
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "id": 4332385,
+          "resource_url": "https://api.discogs.com/artists/4332385"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Columbia",
+          "id": 1866,
+          "catno": "88875 08914 1",
+          "resource_url": "https://api.discogs.com/labels/1866"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/9W9sN5pFCyII9CWt74m_xvPR4yO9tp3GSUEq1QBnx34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/ODctMTQ5NTE2MDY3/NC0zMTM1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/5KghXHq54Nu1fASTE7t0Io3_AuBN1V-tP0RVE10iHlQ/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/ODctMTQ5NTE2MDY3/NC0zMTM1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7146187"
+    },
+    "id": 7146187
+  },
+  {
+    "instance_id": 1890163992,
+    "rating": 0,
+    "date_added": "2025-01-06T18:03:20-08:00",
+    "basic_information": {
+      "id": 29347690,
+      "title": "Recorded Live In Europe During Her Latest Concert Tour",
+      "year": 1962,
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "id": 265667,
+          "resource_url": "https://api.discogs.com/artists/265667"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Columbia",
+          "id": 1866,
+          "catno": "CS 8526",
+          "resource_url": "https://api.discogs.com/labels/1866"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/TfZp5ynm7yksJm_dN6g39f36aChfRq7udmQdNPzno8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQ3/NjkwLTE3MDM5NDQ0/NDEtNDIyMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/XpxbcLFDlFRaCRIaDbMOklg0wKl9PaDfg0qPlk4kwWc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQ3/NjkwLTE3MDM5NDQ0/NDEtNDIyMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29347690"
+    },
+    "id": 29347690
+  },
+  {
+    "instance_id": 1886944509,
+    "rating": 0,
+    "date_added": "2025-01-04T10:31:53-08:00",
+    "basic_information": {
+      "id": 2223256,
+      "title": "Between Heaven And Hell",
+      "year": 1962,
+      "artists": [
+        {
+          "name": "Oscar Brown Jr.",
+          "id": 139219,
+          "resource_url": "https://api.discogs.com/artists/139219"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Columbia",
+          "id": 1866,
+          "catno": "CS 8574",
+          "resource_url": "https://api.discogs.com/labels/1866"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/a1Cqfhvekvpm_rrPZqCDXGF6SVYnEEiLC7iVjRoO2DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjMy/NTYtMTM2MzE5MDEw/Ny05NTE2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/jSLDckx4xF9OXQh_oZpKOehIa-lCja2dspP_n21f1U8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjMy/NTYtMTM2MzE5MDEw/Ny05NTE2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/2223256"
+    },
+    "id": 2223256
+  },
+  {
+    "instance_id": 1887141453,
+    "rating": 0,
+    "date_added": "2025-01-04T12:49:24-08:00",
+    "basic_information": {
+      "id": 3571382,
+      "title": "Silent Night - Songs For Christmas",
+      "year": 1962,
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "id": 265667,
+          "resource_url": "https://api.discogs.com/artists/265667"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Columbia",
+          "id": 1866,
+          "catno": "CS 8703",
+          "resource_url": "https://api.discogs.com/labels/1866"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/TEBOwWoXYdNbQlCbth_TUGcnvxFFpjDezFpoPGDsr5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzEz/ODItMTMzNTcyNzgy/Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/sl6lGlU6M1P3S3lT_Ig424CKeDHH-00pXcwill4A2MQ/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzEz/ODItMTMzNTcyNzgy/Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3571382"
+    },
+    "id": 3571382
+  },
+  {
+    "instance_id": 1889753013,
+    "rating": 0,
+    "date_added": "2025-01-06T11:28:37-08:00",
+    "basic_information": {
+      "id": 9134513,
+      "title": "Think Of One",
+      "year": 1983,
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "id": 253392,
+          "resource_url": "https://api.discogs.com/artists/253392"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Columbia",
+          "id": 1866,
+          "catno": "FC 38641",
+          "resource_url": "https://api.discogs.com/labels/1866"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/L0WouqLgBkVBI5WYCLJKIJXz3nYJSxXSVnQSkVuzddQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzQ1/MTMtMTU3NzY2NTcx/NS0yMjQ1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/_NnGcjWhezvgcg72X_J1ZnSB2G71XQh5hpMFEZkuWpI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMzQ1/MTMtMTU3NzY2NTcx/NS0yMjQ1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9134513"
+    },
+    "id": 9134513
+  },
+  {
+    "instance_id": 1889852787,
+    "rating": 0,
+    "date_added": "2025-01-06T12:43:17-08:00",
+    "basic_information": {
+      "id": 10294401,
+      "title": "American Epic - The Soundtrack",
+      "year": 2017,
+      "artists": [
+        {
+          "name": "Various",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Columbia",
+          "id": 1866,
+          "catno": "88985430991",
+          "resource_url": "https://api.discogs.com/labels/1866"
+        },
+        {
+          "name": "Third Man Records",
+          "id": 89238,
+          "catno": "88985430991",
+          "resource_url": "https://api.discogs.com/labels/89238"
+        },
+        {
+          "name": "Legacy",
+          "id": 15491,
+          "catno": "88985430991",
+          "resource_url": "https://api.discogs.com/labels/15491"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/-8DEFZnXW3WwYMtVtiHkhWfwJJHmgVvNPKKp51q_35A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk0/NDAxLTE0OTQ4MTM2/MjMtMTUyOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/k2dxSht2H3jWZV-YYRePkinFzm2WrjrKdJaMIhf4KMw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk0/NDAxLTE0OTQ4MTM2/MjMtMTUyOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10294401"
+    },
+    "id": 10294401
+  },
+  {
+    "instance_id": 1886955624,
+    "rating": 0,
+    "date_added": "2025-01-04T10:39:25-08:00",
+    "basic_information": {
+      "id": 7800195,
+      "title": "Rhythms Of Spain",
+      "year": 0,
+      "artists": [
+        {
+          "name": "Sabicas",
+          "id": 775396,
+          "resource_url": "https://api.discogs.com/artists/775396"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Decca",
+          "id": 5320,
+          "catno": "DL 4138",
+          "resource_url": "https://api.discogs.com/labels/5320"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/4shlG5mphvbMq6q8H3YNu09BEoJehFTWhmP9l30Dsvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAx/OTUtMTQ0OTAzMzQx/NC01NDY3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/IXWJdR8NyPFrk5pud6H9f-Cx-skj7nlcvCTgUBEdjfI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAx/OTUtMTQ0OTAzMzQx/NC01NDY3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7800195"
+    },
+    "id": 7800195
+  },
+  {
+    "instance_id": 1890158319,
+    "rating": 0,
+    "date_added": "2025-01-06T17:55:09-08:00",
+    "basic_information": {
+      "id": 5329977,
+      "title": "Burl Ives Sings... In The Quiet Of The Night",
+      "year": 1957,
+      "artists": [
+        {
+          "name": "Burl Ives",
+          "id": 310187,
+          "resource_url": "https://api.discogs.com/artists/310187"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Decca",
+          "id": 5320,
+          "catno": "DL 8247",
+          "resource_url": "https://api.discogs.com/labels/5320"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Mono"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/VR9chwBoHF7z2uD96aM64e93pVqwaT0buSt_wrhlXEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjk5/NzctMTY3Nzk2NTU1/OC04NzQ3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/IvGF4ASv_CXppGEjtrCC71X2Xd0xjLB3MqfP55ZnaVk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMjk5/NzctMTY3Nzk2NTU1/OC04NzQ3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5329977"
+    },
+    "id": 5329977
+  },
+  {
+    "instance_id": 1944200010,
+    "rating": 0,
+    "date_added": "2025-02-23T17:19:03-08:00",
+    "basic_information": {
+      "id": 11704434,
+      "title": "Original Broadway Cast - Jesus Christ Superstar",
+      "year": 1971,
+      "artists": [
+        {
+          "name": "Various",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Decca",
+          "id": 5320,
+          "catno": "DL7-1503",
+          "resource_url": "https://api.discogs.com/labels/5320"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/wYhb99rn-YJVDcYZOqMf1tyiMZXd_zz_A_OLXFR3SPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA0/NDM0LTE2OTkzODcw/NzQtMzIyMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/sO1UH-MzQ4luSKtV50JhWirs2qxDWmw3iuaM93CD7kg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA0/NDM0LTE2OTkzODcw/NzQtMzIyMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11704434"
+    },
+    "id": 11704434
+  },
+  {
+    "instance_id": 2010927141,
+    "rating": 0,
+    "date_added": "2025-04-27T16:10:26-07:00",
+    "basic_information": {
+      "id": 22895636,
+      "title": "The Best Of Chi-Sound Records 1976-1984",
+      "year": 2022,
+      "artists": [
+        {
+          "name": "Various",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Demon Records",
+          "id": 8522,
+          "catno": "DEMREC992",
+          "resource_url": "https://api.discogs.com/labels/8522"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Record Store Day",
+            "Compilation",
+            "Stereo",
+            "Mono"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/no9LmwifAXbdVQTI-mJLBOtY-eVHdvSrKLi60-Eu2V4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk1/NjM2LTE2NTAwNjY3/ODktMjg5Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/S-KZ0VVg6etzJkbUORj6GBavNX7nJvSclXb5SYH0ggQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk1/NjM2LTE2NTAwNjY3/ODktMjg5Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22895636"
+    },
+    "id": 22895636
+  },
+  {
+    "instance_id": 2011073667,
+    "rating": 0,
+    "date_added": "2025-04-27T20:17:22-07:00",
+    "basic_information": {
+      "id": 28368403,
+      "title": "It Serve You Right To Suffer",
+      "year": 2023,
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "id": 94557,
+          "resource_url": "https://api.discogs.com/artists/94557"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Elemental Music",
+          "id": 58690,
+          "catno": "620893",
+          "resource_url": "https://api.discogs.com/labels/58690"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/aS6zNkVYFa1LUlj_JzVDzJ4JmH2kPAJhzx-O-jz6dw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzY4/NDAzLTE2OTU0NTUx/MzUtOTk3NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/fjLeS6kYwFuatIduI8faPIRuVTZPuY8sr1ZfUFJC054/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzY4/NDAzLTE2OTU0NTUx/MzUtOTk3NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28368403"
+    },
+    "id": 28368403
+  },
+  {
+    "instance_id": 1887132237,
+    "rating": 0,
+    "date_added": "2025-01-04T12:43:10-08:00",
+    "basic_information": {
+      "id": 5337351,
+      "title": "Willy And The Poor Boys",
+      "year": 1969,
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "id": 252102,
+          "resource_url": "https://api.discogs.com/artists/252102"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Fantasy",
+          "id": 1329,
+          "catno": "8397",
+          "resource_url": "https://api.discogs.com/labels/1329"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/hhNTxqc4RY2urxKxyVXox-UvaGgSXteo2DNDgxNrut0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzcz/NTEtMTM5MTA3OTIw/NC04OTk2LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/KQn24UnZ-kGWgp7pMfJCXELCXxX-DOk7dpyjYjmWsxw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzcz/NTEtMTM5MTA3OTIw/NC04OTk2LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/5337351"
+    },
+    "id": 5337351
+  },
+  {
+    "instance_id": 1914245916,
+    "rating": 0,
+    "date_added": "2025-01-27T14:56:27-08:00",
+    "basic_information": {
+      "id": 30372155,
+      "title": "Spirits Rejoice!",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "Spirits Rejoice",
+          "id": 788103,
+          "resource_url": "https://api.discogs.com/artists/788103"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Frederiksberg Records",
+          "id": 698446,
+          "catno": "FRB 016",
+          "resource_url": "https://api.discogs.com/labels/698446"
+        },
+        {
+          "name": "Jo'burg Music",
+          "id": 272416,
+          "catno": "FRB 016",
+          "resource_url": "https://api.discogs.com/labels/272416"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/bumHtxdCX37zH-S4QSDNVX7dfGeD3V_IGJlaxCW_SwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcy/MTU1LTE3MTI4NzU0/MzItMjExMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/G38cyp_-15mTHoh2AR1E3BWsXThHA_gwBEoLvYfZdc0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzcy/MTU1LTE3MTI4NzU0/MzItMjExMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30372155"
+    },
+    "id": 30372155
+  },
+  {
+    "instance_id": 2010925803,
+    "rating": 0,
+    "date_added": "2025-04-27T16:08:37-07:00",
+    "basic_information": {
+      "id": 30166619,
+      "title": "Seasons",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "Pete Jolly",
+          "id": 168453,
+          "resource_url": "https://api.discogs.com/artists/168453"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Future Days Recordings",
+          "id": 403230,
+          "catno": "FDR 636",
+          "resource_url": "https://api.discogs.com/labels/403230"
+        },
+        {
+          "name": "Future Days Recordings",
+          "id": 403230,
+          "catno": "FDR 636-1-2",
+          "resource_url": "https://api.discogs.com/labels/403230"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/RitWgYZptwY7HS6ImzaCJkWK12ntmUfdYOcqFvVCTUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY2/NjE5LTE3MTI0MTE2/MzktMTE1OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VVrXRXksoRz2jgZ6d8vSeUiW-RP5hsdPSx6U8_xtVF4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTY2/NjE5LTE3MTI0MTE2/MzktMTE1OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30166619"
+    },
+    "id": 30166619
+  },
+  {
+    "instance_id": 1936115268,
+    "rating": 0,
+    "date_added": "2025-02-16T17:09:17-08:00",
+    "basic_information": {
+      "id": 11298865,
+      "title": "I Should Have Danced All Night",
+      "year": 1983,
+      "artists": [
+        {
+          "name": "The Meteors (12)",
+          "id": 6194030,
+          "resource_url": "https://api.discogs.com/artists/6194030"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Gallo",
+          "id": 115114,
+          "catno": "BL 434",
+          "resource_url": "https://api.discogs.com/labels/115114"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/zrZeva2wuOpwChva_ikKfs30Qu17MbDUCR770oPBD6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk4/ODY1LTE1MTM3MDE2/NTgtMTI1MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/aRVRNz1LhYDLSRfjBmiwV6yu_tkvdcsQYXwVaPsq6oM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk4/ODY1LTE1MTM3MDE2/NTgtMTI1MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/11298865"
+    },
+    "id": 11298865
+  },
+  {
+    "instance_id": 2011071753,
+    "rating": 0,
+    "date_added": "2025-04-27T20:13:36-07:00",
+    "basic_information": {
+      "id": 31336822,
+      "title": "Por Vida",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Geffen Records",
+          "id": 821,
+          "catno": "602465213607",
+          "resource_url": "https://api.discogs.com/labels/821"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "12\"",
+            "33 ⅓ RPM",
+            "EP",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/-reiRemEn-TP2yayl-x1YoZZNym1cXIsSj2Kfag8D78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzM2/ODIyLTE3MjMwMDky/ODQtOTI2MC5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/tNDbZTvIwdN9bqD9pFvYVSg7_LaXyXzcb6-ykt47uhM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzM2/ODIyLTE3MjMwMDky/ODQtOTI2MC5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31336822"
+    },
+    "id": 31336822
+  },
+  {
+    "instance_id": 1887151776,
+    "rating": 0,
+    "date_added": "2025-01-04T12:56:40-08:00",
+    "basic_information": {
+      "id": 14228047,
+      "title": "Donna Summer",
+      "year": 1982,
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "id": 6270,
+          "resource_url": "https://api.discogs.com/artists/6270"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Geffen Records",
+          "id": 821,
+          "catno": "GHS 2005",
+          "resource_url": "https://api.discogs.com/labels/821"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/2DZrKzPEkk--Re2k--qX1J8HVb2yJ6piRAldU0CFQRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI4/MDQ3LTE1NzE0MzQw/OTEtNzQyNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gpB1T8UbniAEzEYYRIcm988DubLW7AThlrMNiIRyakA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI4/MDQ3LTE1NzE0MzQw/OTEtNzQyNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14228047"
+    },
+    "id": 14228047
+  },
+  {
+    "instance_id": 1887108051,
+    "rating": 0,
+    "date_added": "2025-01-04T12:26:54-08:00",
+    "basic_information": {
+      "id": 4220957,
+      "title": "Latin Dance Party",
+      "year": 1959,
+      "artists": [
+        {
+          "name": "Rodriguez And His Orchestra",
+          "id": 3590743,
+          "resource_url": "https://api.discogs.com/artists/3590743"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Golden Tone",
+          "id": 85729,
+          "catno": "C 4016",
+          "resource_url": "https://api.discogs.com/labels/85729"
+        },
+        {
+          "name": "Golden Tone",
+          "id": 85729,
+          "catno": "C4016",
+          "resource_url": "https://api.discogs.com/labels/85729"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/jCRqmAHxvZSVtQg3NVjwlYo2OU2pDUGRTXTMbBdvduU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjA5/NTctMTQyMDAxNTk2/NS04NzcwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/6mRkaECaGUEc1dDmJg56FtANTLkxscfDIFQbdtNViOY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjA5/NTctMTQyMDAxNTk2/NS04NzcwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4220957"
+    },
+    "id": 4220957
+  },
+  {
+    "instance_id": 1961110412,
+    "rating": 0,
+    "date_added": "2025-03-11T18:02:25-07:00",
+    "basic_information": {
+      "id": 23439110,
+      "title": "Sounds Of Lecak Vol.1",
+      "year": 2022,
+      "artists": [
+        {
+          "name": "Various",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Guruguru Brain",
+          "id": 761486,
+          "catno": "GGB-026LP",
+          "resource_url": "https://api.discogs.com/labels/761486"
+        },
+        {
+          "name": "TAV Records - The Analog Vault",
+          "id": 1669546,
+          "catno": "TAV004LP",
+          "resource_url": "https://api.discogs.com/labels/1669546"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/eEz2P_UpbH1DdmnArZlG9HCIBLFzf_11-By2cZhdVJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDM5/MTEwLTE2NTQxNTA0/MDctNTg5NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/gwN0XajRGUawssKVhjqG1oR5WeRyQwy8v1mxCoinWMY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDM5/MTEwLTE2NTQxNTA0/MDctNTg5NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23439110"
+    },
+    "id": 23439110
+  },
+  {
+    "instance_id": 2008610142,
+    "rating": 0,
+    "date_added": "2025-04-25T17:46:19-07:00",
+    "basic_information": {
+      "id": 28421038,
+      "title": "The Father Of Libyan Reggae = رائد الريجى الليبى",
+      "year": 2023,
+      "artists": [
+        {
+          "name": "إبراهيم الحسناوي",
+          "id": 5636127,
+          "resource_url": "https://api.discogs.com/artists/5636127"
+        },
+        {
+          "name": "إبراهيم الحسناوي",
+          "id": 5636127,
+          "resource_url": "https://api.discogs.com/artists/5636127"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Habibi Funk",
+          "id": 1445174,
+          "catno": "HABIBI024",
+          "resource_url": "https://api.discogs.com/labels/1445174"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/HjRnIxu1Z3v04WYGlhXkTFBpSCXk0WNt5mq4iel5N58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIx/MDM4LTE3MDQ0Nzgz/ODQtOTgyMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ztJdoouT7dFr9b2szXUbGLNZgw_TUwLWgAT_KfmtC74/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIx/MDM4LTE3MDQ0Nzgz/ODQtOTgyMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/28421038"
+    },
+    "id": 28421038
+  },
+  {
+    "instance_id": 2010926625,
+    "rating": 0,
+    "date_added": "2025-04-27T16:09:44-07:00",
+    "basic_information": {
+      "id": 32950539,
+      "title": "List Of Demands",
+      "year": 2025,
+      "artists": [
+        {
+          "name": "Damon Locks",
+          "id": 734002,
+          "resource_url": "https://api.discogs.com/artists/734002"
+        }
+      ],
+      "labels": [
+        {
+          "name": "International Anthem Recording Company",
+          "id": 799458,
+          "catno": "IARC0092",
+          "resource_url": "https://api.discogs.com/labels/799458"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/Yq-fINqs79HEqbv8kPftCG3pCq6Ba_rBBkznelZLvQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTUw/NTM5LTE3Mzg3MDQ4/MDQtNDI1Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/SQ8yPvmieSEwhLjoH-M19b6atmxlTtZL-aVIt6rcblM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTUw/NTM5LTE3Mzg3MDQ4/MDQtNDI1Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32950539"
+    },
+    "id": 32950539
+  },
+  {
+    "instance_id": 2022388144,
+    "rating": 0,
+    "date_added": "2025-05-12T20:27:18-07:00",
+    "basic_information": {
+      "id": 3975953,
+      "title": "Good Kid, M.A.A.D City",
+      "year": 2012,
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "id": 1778977,
+          "resource_url": "https://api.discogs.com/artists/1778977"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Interscope Records",
+          "id": 2311,
+          "catno": "B0017695-01",
+          "resource_url": "https://api.discogs.com/labels/2311"
+        },
+        {
+          "name": "Aftermath Entertainment",
+          "id": 2310,
+          "catno": "B0017695-01",
+          "resource_url": "https://api.discogs.com/labels/2310"
+        },
+        {
+          "name": "Top Dawg Entertainment",
+          "id": 255292,
+          "catno": "B0017695-01",
+          "resource_url": "https://api.discogs.com/labels/255292"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/bWN4wGLGobx-8DJ3C5D-_actD7W-kuVQyWE1uqVkz1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzU5/NTMtMTU3MDQwNDc5/NS01Njk0LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/m8eUFdh6Dmu3VIwfNJUNI8Eht0dZfJyB9ycEYgatQdY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzU5/NTMtMTU3MDQwNDc5/NS01Njk0LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3975953"
+    },
+    "id": 3975953
+  },
+  {
+    "instance_id": 1944032208,
+    "rating": 0,
+    "date_added": "2025-02-23T14:27:55-08:00",
+    "basic_information": {
+      "id": 29637592,
+      "title": "Chicken Fat",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "Mel Brown",
+          "id": 135922,
+          "resource_url": "https://api.discogs.com/artists/135922"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Jackpot Records (3)",
+          "id": 112252,
+          "catno": "JPR-097",
+          "resource_url": "https://api.discogs.com/labels/112252"
+        },
+        {
+          "name": "Impulse!",
+          "id": 26557,
+          "catno": "JPR-097",
+          "resource_url": "https://api.discogs.com/labels/26557"
+        },
+        {
+          "name": "Verve Records",
+          "id": 5041,
+          "catno": "JPR-097",
+          "resource_url": "https://api.discogs.com/labels/5041"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/Rp4IIzpsXYxLfHsL4LkTQD1xd02km0aJDcyDHitKEaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjM3/NTkyLTE3MDY1NTQ4/NTctNzcyOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/I_w3HApqnn9CntuSGCCTNdB63gK0cLUEzxM8prl1Xso/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjM3/NTkyLTE3MDY1NTQ4/NTctNzcyOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29637592"
+    },
+    "id": 29637592
+  },
+  {
+    "instance_id": 1946441253,
+    "rating": 0,
+    "date_added": "2025-02-25T19:04:22-08:00",
+    "basic_information": {
+      "id": 25241029,
+      "title": "Live At KEXP Volume 10",
+      "year": 2022,
+      "artists": [
+        {
+          "name": "Various",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "KEXP",
+          "id": 106687,
+          "catno": "none",
+          "resource_url": "https://api.discogs.com/labels/106687"
+        },
+        {
+          "name": "BECU",
+          "id": 565435,
+          "catno": "none",
+          "resource_url": "https://api.discogs.com/labels/565435"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "12\"",
+            "33 ⅓ RPM",
+            "Compilation",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/z4IEU9IFm63BItcZ55CPDQESQAnDXGL_E10Iju5WNBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQx/MDI5LTE2NjkwNzk3/MzEtMTAwNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/UEiwKkOCeifntOE1ClXk9qi9ZLvePCEtsmcmjx4ZPPU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQx/MDI5LTE2NjkwNzk3/MzEtMTAwNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25241029"
+    },
+    "id": 25241029
+  },
+  {
+    "instance_id": 2007734982,
+    "rating": 0,
+    "date_added": "2025-04-24T23:05:21-07:00",
+    "basic_information": {
+      "id": 26328437,
+      "title": "Pacific Breeze 3: Japanese City Pop, AOR And Boogie 1975-1987",
+      "year": 2023,
+      "artists": [
+        {
+          "name": "Various",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Light In The Attic",
+          "id": 24105,
+          "catno": "LITA202",
+          "resource_url": "https://api.discogs.com/labels/24105"
+        },
+        {
+          "name": "Light In The Attic",
+          "id": 24105,
+          "catno": "LITA202-1-1",
+          "resource_url": "https://api.discogs.com/labels/24105"
+        },
+        {
+          "name": "Light In The Attic",
+          "id": 24105,
+          "catno": "LITA 202",
+          "resource_url": "https://api.discogs.com/labels/24105"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Limited Edition",
+            "Remastered",
+            "Special Edition"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/wPR1Mg_SuQroeLrhOYzQkIuO1WHQ0Q6k2dF9VGkNIqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI4/NDM3LTE3NDYzODcz/NzMtMzY5NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/UFhChAU_fp4EuEv_puROvvLcngFQs-16-FD6gUZYw-E/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI4/NDM3LTE3NDYzODcz/NzMtMzY5NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26328437"
+    },
+    "id": 26328437
+  },
+  {
+    "instance_id": 1928672745,
+    "rating": 0,
+    "date_added": "2025-02-09T19:13:40-08:00",
+    "basic_information": {
+      "id": 4272115,
+      "title": "The Answer Is Love...",
+      "year": 1978,
+      "artists": [
+        {
+          "name": "Fred Bryan & The All Stars",
+          "id": 1732299,
+          "resource_url": "https://api.discogs.com/artists/1732299"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Love Link",
+          "id": 184211,
+          "catno": "LOVE LINK STEREO 001",
+          "resource_url": "https://api.discogs.com/labels/184211"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/MzRHyNKr43phkjtiOGEBL0t7J4XLpAodJIEbf9Mhjsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzIx/MTUtMTM2MDMzNDgz/OC00MTEzLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/0qC0Ipi89AIqvNxXXlct-j7mtQb6dC9LdVrCSMpAHqM/rs:fit/g:sm/q:90/h:300/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzIx/MTUtMTM2MDMzNDgz/OC00MTEzLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4272115"
+    },
+    "id": 4272115
+  },
+  {
+    "instance_id": 2022040693,
+    "rating": 0,
+    "date_added": "2025-05-11T18:12:11-07:00",
+    "basic_information": {
+      "id": 4997673,
+      "title": "Who Is William Onyeabor?",
+      "year": 2013,
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "id": 289162,
+          "resource_url": "https://api.discogs.com/artists/289162"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Luaka Bop",
+          "id": 3264,
+          "catno": "6 80899 0079-1-7",
+          "resource_url": "https://api.discogs.com/labels/3264"
+        },
+        {
+          "name": "Luaka Bop",
+          "id": 3264,
+          "catno": "LP 0079",
+          "resource_url": "https://api.discogs.com/labels/3264"
+        },
+        {
+          "name": "Wilfilms Records",
+          "id": 113071,
+          "catno": "6 80899 0079-1-7",
+          "resource_url": "https://api.discogs.com/labels/113071"
+        },
+        {
+          "name": "Wilfilms Records",
+          "id": 113071,
+          "catno": "LP 0079",
+          "resource_url": "https://api.discogs.com/labels/113071"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "3",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Compilation",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/6iTCmcTSKi3MpIzaErCxd6f5odHKI2zhPVkPkc32A2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTc2/NzMtMTM5NjcyNzA4/OS0zODE1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/_sM-3UMIGbM-9JbSBj3RlX0PaFbE_39iMkzipU6rsbc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTc2/NzMtMTM5NjcyNzA4/OS0zODE1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/4997673"
+    },
+    "id": 4997673
+  },
+  {
+    "instance_id": 2009908950,
+    "rating": 0,
+    "date_added": "2025-04-26T21:04:21-07:00",
+    "basic_information": {
+      "id": 3341793,
+      "title": "Best Collection",
+      "year": 1974,
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "id": 47742,
+          "resource_url": "https://api.discogs.com/artists/47742"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Motown",
+          "id": 1723,
+          "catno": "SWX-10121",
+          "resource_url": "https://api.discogs.com/labels/1723"
+        },
+        {
+          "name": "Tamla Motown",
+          "id": 33859,
+          "catno": "SWX-10121",
+          "resource_url": "https://api.discogs.com/labels/33859"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/dHj6mOwPM47HFpYAednGVrTXujW55Tcv47Cyc31wSBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDE3/OTMtMTMyNjU2MTgw/NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jrVSrN3wF2iJT1MK8aaP8Ob6bcPe2RFWpNrKoG6cv2I/rs:fit/g:sm/q:90/h:487/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDE3/OTMtMTMyNjU2MTgw/NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/3341793"
+    },
+    "id": 3341793
+  },
+  {
+    "instance_id": 2010851910,
+    "rating": 0,
+    "date_added": "2025-04-27T14:40:39-07:00",
+    "basic_information": {
+      "id": 17774914,
+      "title": "Heisei No Oto (Japanese Left-Field Pop From The CD Age, 1989-1996)",
+      "year": 2021,
+      "artists": [
+        {
+          "name": "Various",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Music From Memory",
+          "id": 578259,
+          "catno": "MFM053",
+          "resource_url": "https://api.discogs.com/labels/578259"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/o-KHDsm1_OZVgfVfsDVA_UcqweGs9S8ACCB5yxhsHvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzc0/OTE0LTE2MTU0NTY1/MjItODQ1Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Y7OkPsuDEsl4vCea3Sy0y9HRi4rhsYLhe_OSJWydmyc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzc0/OTE0LTE2MTU0NTY1/MjItODQ1Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/17774914"
+    },
+    "id": 17774914
+  },
+  {
+    "instance_id": 1889750271,
+    "rating": 0,
+    "date_added": "2025-01-06T11:26:34-08:00",
+    "basic_information": {
+      "id": 14220525,
+      "title": "Chicken Skin Music ",
+      "year": 2019,
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "id": 55080,
+          "resource_url": "https://api.discogs.com/artists/55080"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Music On Vinyl",
+          "id": 169635,
+          "catno": "MOVLP 2538",
+          "resource_url": "https://api.discogs.com/labels/169635"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Numbered",
+            "Reissue"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/SrGlLgfHGqtjbb-BNiClOIb5CpXfZskTw78TxdEHjtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIw/NTI1LTE1ODUwMTUw/ODgtOTk5MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/jVgjPeUOkL8WEu2fHTHoZuCGn14xoedZc_iTkUaUB-8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjIw/NTI1LTE1ODUwMTUw/ODgtOTk5MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14220525"
+    },
+    "id": 14220525
+  },
+  {
+    "instance_id": 2011020867,
+    "rating": 0,
+    "date_added": "2025-04-27T18:39:57-07:00",
+    "basic_information": {
+      "id": 8577393,
+      "title": "Everything Is Wrong",
+      "year": 2016,
+      "artists": [
+        {
+          "name": "Moby",
+          "id": 1031,
+          "resource_url": "https://api.discogs.com/artists/1031"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Mute",
+          "id": 26391,
+          "catno": "STUMM130",
+          "resource_url": "https://api.discogs.com/labels/26391"
+        },
+        {
+          "name": "BMG",
+          "id": 1003,
+          "catno": "STUMM130",
+          "resource_url": "https://api.discogs.com/labels/1003"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/tjbpvtQo2dpo4R9WTS6FxZWzLHep9vA7zqZLiA8LtA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Nzcz/OTMtMTQ2NDM5NDI4/NS0xMjAwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/RNV2VhSXCf32egNHfmuIHTm9bHR_lrgcYvo6GqJp3GE/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Nzcz/OTMtMTQ2NDM5NDI4/NS0xMjAwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8577393"
+    },
+    "id": 8577393
+  },
+  {
+    "instance_id": 1950367701,
+    "rating": 0,
+    "date_added": "2025-03-01T12:27:03-08:00",
+    "basic_information": {
+      "id": 26741303,
+      "title": "Stoned Soul Picnic ",
+      "year": 2023,
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "id": 2265,
+          "resource_url": "https://api.discogs.com/artists/2265"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Nature Sounds",
+          "id": 22277,
+          "catno": "NSD-817",
+          "resource_url": "https://api.discogs.com/labels/22277"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Record Store Day",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/JwdvMs-tm2z1MucgWvcArVlfd3w3F613xrv2lOJlcx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzQx/MzAzLTE2ODEzMzcy/NzktNTQ4MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vbCX-uIP0y7VQuoRlo6crHoizidBsn1WEWT8f483OCk/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzQx/MzAzLTE2ODEzMzcy/NzktNTQ4MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/26741303"
+    },
+    "id": 26741303
+  },
+  {
+    "instance_id": 1890120084,
+    "rating": 0,
+    "date_added": "2025-01-06T17:02:40-08:00",
+    "basic_information": {
+      "id": 23794178,
+      "title": "Ways & Means",
+      "year": 2022,
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "id": 4469506,
+          "resource_url": "https://api.discogs.com/artists/4469506"
+        }
+      ],
+      "labels": [
+        {
+          "name": "New West Records",
+          "id": 56408,
+          "catno": "NW5612",
+          "resource_url": "https://api.discogs.com/labels/56408"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/BgyZ3AnkIAh-bJ4cSZ9vCR0DokGUxpud8MpJPcEPINs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzk0/MTc4LTE2NzE4MjQ0/NjUtOTcyOC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/m9iPMnqv50hK4dcSFt8hFOi_pD9SC6qaBL6EBZVtfRg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzk0/MTc4LTE2NzE4MjQ0/NjUtOTcyOC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23794178"
+    },
+    "id": 23794178
+  },
+  {
+    "instance_id": 1886371209,
+    "rating": 0,
+    "date_added": "2025-01-04T03:06:00-08:00",
+    "basic_information": {
+      "id": 14098352,
+      "title": "Chávez Ravine",
+      "year": 2019,
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "id": 55080,
+          "resource_url": "https://api.discogs.com/artists/55080"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Nonesuch",
+          "id": 652,
+          "catno": "587576-1",
+          "resource_url": "https://api.discogs.com/labels/652"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/vB1l8bpBQpPtRplTxJT72vSzFhgxzY7NNCZyQZXp0mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk4/MzUyLTE1Njc4Mjcx/NDEtNzcxNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/JYphmd_hC4uEyK01RFtgxWJx1ePo_EQKDjhbOJ2jK8M/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk4/MzUyLTE1Njc4Mjcx/NDEtNzcxNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14098352"
+    },
+    "id": 14098352
+  },
+  {
+    "instance_id": 1887099966,
+    "rating": 0,
+    "date_added": "2025-01-04T12:21:18-08:00",
+    "basic_information": {
+      "id": 9117045,
+      "title": "The Best Of The Gipsy Kings",
+      "year": 2016,
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "id": 41513,
+          "resource_url": "https://api.discogs.com/artists/41513"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Nonesuch",
+          "id": 652,
+          "catno": "79358-1",
+          "resource_url": "https://api.discogs.com/labels/652"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/w9QJ26Gl9MqTa2GjYBCbOFYlRXV_TNzOCoG7etH7rpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTcw/NDUtMTQ3NTA2OTg2/My02NDE5LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/oHtKbtUk3rLHeLuItsIDNl0yjrAhHxr1V4WrovU8AJI/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTcw/NDUtMTQ3NTA2OTg2/My02NDE5LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9117045"
+    },
+    "id": 9117045
+  },
+  {
+    "instance_id": 1887212019,
+    "rating": 0,
+    "date_added": "2025-01-04T13:37:34-08:00",
+    "basic_information": {
+      "id": 8770316,
+      "title": "Folk Songs Of The South As Sung By Winifred Smith",
+      "year": 1968,
+      "artists": [
+        {
+          "name": "Winifred Smith",
+          "id": 2184367,
+          "resource_url": "https://api.discogs.com/artists/2184367"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Not On Label",
+          "id": 1818,
+          "catno": "630D-7880",
+          "resource_url": "https://api.discogs.com/labels/1818"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/8YCNwkt6IXdOU-EvKoibi6_iua0xBd_CjgAw5jjmyeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzAz/MTYtMTQ2ODQxMDk3/OS05NzYwLmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/clfPsuF4xKch8y6MKRlcbNMCBgHTGWapwLSolNfAIfI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NzAz/MTYtMTQ2ODQxMDk3/OS05NzYwLmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/8770316"
+    },
+    "id": 8770316
+  },
+  {
+    "instance_id": 1949442411,
+    "rating": 0,
+    "date_added": "2025-02-28T18:38:43-08:00",
+    "basic_information": {
+      "id": 29221081,
+      "title": "8 Años",
+      "year": 2023,
+      "artists": [
+        {
+          "name": "Hermanos Gutiérrez (2)",
+          "id": 7128718,
+          "resource_url": "https://api.discogs.com/artists/7128718"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Not On Label",
+          "id": 1818,
+          "catno": "HG 1924",
+          "resource_url": "https://api.discogs.com/labels/1818"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/wi1VnpjiTqnT0SQc-ka5U7IbYaFgkNVKGtSzS7OVvOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjIx/MDgxLTE3MDI3NTc0/NTMtODUxMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ZObiKymzJz6S7P7Ye53hklJWi_rcHrMG8eZx9kIUmlk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjIx/MDgxLTE3MDI3NTc0/NTMtODUxMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29221081"
+    },
+    "id": 29221081
+  },
+  {
+    "instance_id": 1887122163,
+    "rating": 0,
+    "date_added": "2025-01-04T12:36:24-08:00",
+    "basic_information": {
+      "id": 31706552,
+      "title": "Horizon Unlimited",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "Lijadu Sisters",
+          "id": 286117,
+          "resource_url": "https://api.discogs.com/artists/286117"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Numero Group",
+          "id": 62008,
+          "catno": "NUM653",
+          "resource_url": "https://api.discogs.com/labels/62008"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/5PZTY_GM8b6kRSp37N_NDA-jU46P_XpzYo3bSJOyk-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzA2/NTUyLTE3MjYwNDEw/NTItNzg2MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/RqGhLF3IoeTeueRXdICax_0xQ8rKuUWyil1DMW9MPlk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzA2/NTUyLTE3MjYwNDEw/NTItNzg2MS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31706552"
+    },
+    "id": 31706552
+  },
+  {
+    "instance_id": 2022038192,
+    "rating": 0,
+    "date_added": "2025-05-11T17:58:02-07:00",
+    "basic_information": {
+      "id": 33006585,
+      "title": "Eccentric Soul: The Cobra Label",
+      "year": 2025,
+      "artists": [
+        {
+          "name": "Various",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Numero Group",
+          "id": 62008,
+          "catno": "093",
+          "resource_url": "https://api.discogs.com/labels/62008"
+        },
+        {
+          "name": "Cobra (12)",
+          "id": 434038,
+          "catno": "093",
+          "resource_url": "https://api.discogs.com/labels/434038"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/1OtFoatb2wHPrln0x2_VhE74ZzsNqIrIMqoHm8b6z4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA2/NTg1LTE3Mzg1OTE1/MDUtOTU4NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/CT5U5P7i_egSf47xH8vWiPgcrAzpPepy3MnrdUPtP0E/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA2/NTg1LTE3Mzg1OTE1/MDUtOTU4NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33006585"
+    },
+    "id": 33006585
+  },
+  {
+    "instance_id": 1886375769,
+    "rating": 0,
+    "date_added": "2025-01-04T03:11:55-08:00",
+    "basic_information": {
+      "id": 22399231,
+      "title": "Appaloosa - Mandolin Instrumentals",
+      "year": 1975,
+      "artists": [
+        {
+          "name": "Red Rector",
+          "id": 1633237,
+          "resource_url": "https://api.discogs.com/artists/1633237"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Old Homestead Records",
+          "id": 116771,
+          "catno": "OHS 90044",
+          "resource_url": "https://api.discogs.com/labels/116771"
+        },
+        {
+          "name": "Old Homestead Records",
+          "id": 116771,
+          "catno": "OHS-90044",
+          "resource_url": "https://api.discogs.com/labels/116771"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/b_KUzsDb-ieH-WPdke8Ciz-A4IfM5u0NoLsP8ho4L2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzk5/MjMxLTE2ODIyMDY3/ODEtNjA5Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NCd2TzckynFeLoma-gutGo4bFA3Qou2ygLf1m1CJvYA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzk5/MjMxLTE2ODIyMDY3/ODEtNjA5Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22399231"
+    },
+    "id": 22399231
+  },
+  {
+    "instance_id": 1944045600,
+    "rating": 0,
+    "date_added": "2025-02-23T14:39:25-08:00",
+    "basic_information": {
+      "id": 14039033,
+      "title": "Brighter Days ",
+      "year": 2019,
+      "artists": [
+        {
+          "name": "Robert Randolph & The Family Band",
+          "id": 167363,
+          "resource_url": "https://api.discogs.com/artists/167363"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Provogue",
+          "id": 28319,
+          "catno": "PRD 7585 1",
+          "resource_url": "https://api.discogs.com/labels/28319"
+        },
+        {
+          "name": "Provogue",
+          "id": 28319,
+          "catno": "PRD 7585 1-2",
+          "resource_url": "https://api.discogs.com/labels/28319"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/ZmHUFUZWbu_cGygB9XwoTyy21tlx_sftbYrSY6bWdKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM5/MDMzLTE1NjY4MDI5/MDAtNDIyMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/rAwy5opuaxMXA1K_lEXu_T82mOIb6f81SEqN6TlygWY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM5/MDMzLTE1NjY4MDI5/MDAtNDIyMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14039033"
+    },
+    "id": 14039033
+  },
+  {
+    "instance_id": 1887116883,
+    "rating": 0,
+    "date_added": "2025-01-04T12:32:50-08:00",
+    "basic_information": {
+      "id": 15504749,
+      "title": "Klaus Nomi",
+      "year": 2020,
+      "artists": [
+        {
+          "name": "Klaus Nomi",
+          "id": 73282,
+          "resource_url": "https://api.discogs.com/artists/73282"
+        }
+      ],
+      "labels": [
+        {
+          "name": "RCA",
+          "id": 895,
+          "catno": "19439750621",
+          "resource_url": "https://api.discogs.com/labels/895"
+        },
+        {
+          "name": "Sony Music",
+          "id": 25487,
+          "catno": "19439750621",
+          "resource_url": "https://api.discogs.com/labels/25487"
+        },
+        {
+          "name": "Legacy",
+          "id": 15491,
+          "catno": "19439750621",
+          "resource_url": "https://api.discogs.com/labels/15491"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/6qu2fTj9AkqG_IhUL6RwMfNBLqF5p-ym7X5naspPlsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA0/NzQ5LTE1OTI2NzEy/NDktMTIzMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/w3tFu-9szpwCdKJw0ik4GTPXYQRFeCSZ5_PUU16w5sQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTA0/NzQ5LTE1OTI2NzEy/NDktMTIzMC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15504749"
+    },
+    "id": 15504749
+  },
+  {
+    "instance_id": 1887167757,
+    "rating": 0,
+    "date_added": "2025-01-04T13:07:27-08:00",
+    "basic_information": {
+      "id": 9013648,
+      "title": "Into The Purple Valley",
+      "year": 1974,
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "id": 55080,
+          "resource_url": "https://api.discogs.com/artists/55080"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Reprise Records",
+          "id": 157,
+          "catno": "MS 2052",
+          "resource_url": "https://api.discogs.com/labels/157"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/22GQABh_Y90IQ-0LExDkm_rR6g-yGhAAZGbiiSDmN0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTM2/NDgtMTQ3MzI3MjM0/Ni0yNzk1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/-O6Gz1yg0BlDQ-tzZQACxlVvk4Oe7tVA8cHslXJMDYQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTM2/NDgtMTQ3MzI3MjM0/Ni0yNzk1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9013648"
+    },
+    "id": 9013648
+  },
+  {
+    "instance_id": 2022361605,
+    "rating": 0,
+    "date_added": "2025-05-12T18:03:48-07:00",
+    "basic_information": {
+      "id": 32249100,
+      "title": "MM..Food",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "MF Doom",
+          "id": 25058,
+          "resource_url": "https://api.discogs.com/artists/25058"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Rhymesayers Entertainment",
+          "id": 8201,
+          "catno": "RSE0400-1",
+          "resource_url": "https://api.discogs.com/labels/8201"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/cqLu7PUWDp-rmewx5BH0LaToMCXEaE740iTiwSCro5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjQ5/MTAwLTE3MzUxMzk5/MTItMzYxMi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/vH8sG8HrB35RZKExcA9K06U7QTgH6_d6Vl-n-wtU0M8/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjQ5/MTAwLTE3MzUxMzk5/MTItMzYxMi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32249100"
+    },
+    "id": 32249100
+  },
+  {
+    "instance_id": 1950316122,
+    "rating": 0,
+    "date_added": "2025-03-01T11:45:32-08:00",
+    "basic_information": {
+      "id": 25355293,
+      "title": "Sextet & Quartet",
+      "year": 2022,
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "id": 31617,
+          "resource_url": "https://api.discogs.com/artists/31617"
+        }
+      ],
+      "labels": [
+        {
+          "name": "SAAR Records",
+          "id": 144017,
+          "catno": "SM3910",
+          "resource_url": "https://api.discogs.com/labels/144017"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/fkZYWyF5KT4DHTp3QlnSCb_jLMAaF-UW--rFjRwGToI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzU1/MjkzLTE2NzAwNjM1/MTItNDM5Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/CZfQe47MqYoi2RnG1g3vBQBO93FqUefn3Aa8uPN_QXw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzU1/MjkzLTE2NzAwNjM1/MTItNDM5Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25355293"
+    },
+    "id": 25355293
+  },
+  {
+    "instance_id": 1889750973,
+    "rating": 0,
+    "date_added": "2025-01-06T11:27:06-08:00",
+    "basic_information": {
+      "id": 7250111,
+      "title": "Kef Time Las Vegas",
+      "year": 1968,
+      "artists": [
+        {
+          "name": "Buddy Sarkissian",
+          "id": 2607168,
+          "resource_url": "https://api.discogs.com/artists/2607168"
+        },
+        {
+          "name": "Richard Hagopian",
+          "id": 915671,
+          "resource_url": "https://api.discogs.com/artists/915671"
+        },
+        {
+          "name": "Hachig Kazarian",
+          "id": 1475989,
+          "resource_url": "https://api.discogs.com/artists/1475989"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Saha Records",
+          "id": 728082,
+          "catno": "SH 1001",
+          "resource_url": "https://api.discogs.com/labels/728082"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/epv6Io4-tG0fIj5aXpwTmsjkl0tVU8txXMbUwgrPoEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTAx/MTEtMTQzNzE3NTA0/MS0yNTE1LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/7WJuAgyec_lnC0Q6qG-w-WyMXxfp6G01kJZfnII3hVA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTAx/MTEtMTQzNzE3NTA0/MS0yNTE1LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/7250111"
+    },
+    "id": 7250111
+  },
+  {
+    "instance_id": 1944197220,
+    "rating": 0,
+    "date_added": "2025-02-23T17:15:29-08:00",
+    "basic_information": {
+      "id": 392459,
+      "title": "In Paris",
+      "year": 1966,
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "id": 113673,
+          "resource_url": "https://api.discogs.com/artists/113673"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Scepter Records",
+          "id": 104016,
+          "catno": "SRM 534",
+          "resource_url": "https://api.discogs.com/labels/104016"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Mono"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/V4fFp8Ja9L2EhZlCOURhZ-jvkG-uNvHFHc5KFkDeYco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjQ1/OS0xNTA0NTI3NTU1/LTQwNzguanBlZw.jpeg",
+      "cover_image": "https://i.discogs.com/zKpg0h2AuzcnmIbzPz4TQtngor2oZTNSeX9ezfwrtSI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjQ1/OS0xNTA0NTI3NTU1/LTQwNzguanBlZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/392459"
+    },
+    "id": 392459
+  },
+  {
+    "instance_id": 1898490483,
+    "rating": 0,
+    "date_added": "2025-01-13T18:29:49-08:00",
+    "basic_information": {
+      "id": 20256589,
+      "title": "Music City USA",
+      "year": 2021,
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "id": 5656013,
+          "resource_url": "https://api.discogs.com/artists/5656013"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Son Of Davy",
+          "id": 1623168,
+          "catno": "SOD-10",
+          "resource_url": "https://api.discogs.com/labels/1623168"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "45 RPM",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/8IkgaSBhKA2EB96d2RH1xvKLddPg1J1Mr5qfD66eLoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjU2/NTg5LTE3Mjc5MDYw/MTgtMzI5NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/zJo-uiL8bp5CGXBvBPms3WByMGleSN-NoQcDsgg748s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjU2/NTg5LTE3Mjc5MDYw/MTgtMzI5NC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/20256589"
+    },
+    "id": 20256589
+  },
+  {
+    "instance_id": 1886373132,
+    "rating": 0,
+    "date_added": "2025-01-04T03:08:40-08:00",
+    "basic_information": {
+      "id": 15699723,
+      "title": "Welcome To Hard Times",
+      "year": 2020,
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "id": 5656013,
+          "resource_url": "https://api.discogs.com/artists/5656013"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Son Of Davy",
+          "id": 1623168,
+          "catno": "SOD007",
+          "resource_url": "https://api.discogs.com/labels/1623168"
+        },
+        {
+          "name": "The Next Waltz",
+          "id": 1207517,
+          "catno": "SOD007",
+          "resource_url": "https://api.discogs.com/labels/1207517"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/zUpvJ8qHjm1nJVprzId8MlNkC5Lyeo9OBSmqkr-tVVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk5/NzIzLTE3MDgxOTc3/MzItNDgwNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/ch78OKbeHIrKfYKO8pkd8FMdasWJT-CidoX2x-KlGgE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk5/NzIzLTE3MDgxOTc3/MzItNDgwNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15699723"
+    },
+    "id": 15699723
+  },
+  {
+    "instance_id": 2022066767,
+    "rating": 0,
+    "date_added": "2025-05-11T20:35:55-07:00",
+    "basic_information": {
+      "id": 9910034,
+      "title": "Hustle! Reggae Disco",
+      "year": 2017,
+      "artists": [
+        {
+          "name": "Various",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Soul Jazz Records",
+          "id": 27182,
+          "catno": "SJR LP368",
+          "resource_url": "https://api.discogs.com/labels/27182"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "3",
+          "descriptions": [
+            "12\"",
+            "Compilation",
+            "Reissue"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/ZjW2oUwvADAgn_ISPMuTy-xnBTNW5fZ7cziQbvqA4aQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTAw/MzQtMTYwODcwNDI2/My00NDM3LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/DRmMfbFGff5RJsNBub3qMfY3gmvvXOE26UTheOV8vLc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTAw/MzQtMTYwODcwNDI2/My00NDM3LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/9910034"
+    },
+    "id": 9910034
+  },
+  {
+    "instance_id": 1887109947,
+    "rating": 0,
+    "date_added": "2025-01-04T12:28:09-08:00",
+    "basic_information": {
+      "id": 14096190,
+      "title": "Curiosities",
+      "year": 2019,
+      "artists": [
+        {
+          "name": "Lord Echo",
+          "id": 2399307,
+          "resource_url": "https://api.discogs.com/artists/2399307"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Soundway",
+          "id": 32575,
+          "catno": "SNDWLP133",
+          "resource_url": "https://api.discogs.com/labels/32575"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/vPuF0dhoKIDbnChVX3qW5Dksqp8X_k3E7rtQyqVzVZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk2/MTkwLTE1NjgyOTYw/NDQtMjg0My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/QYO7C-ig9WumLDQjKFmu2FtyLamGO_cWsQL-J2mxYto/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk2/MTkwLTE1NjgyOTYw/NDQtMjg0My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14096190"
+    },
+    "id": 14096190
+  },
+  {
+    "instance_id": 2010926313,
+    "rating": 0,
+    "date_added": "2025-04-27T16:09:19-07:00",
+    "basic_information": {
+      "id": 25267285,
+      "title": "Only You",
+      "year": 2022,
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "id": 3456696,
+          "resource_url": "https://api.discogs.com/artists/3456696"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Soundway",
+          "id": 32575,
+          "catno": "SNDWLP146",
+          "resource_url": "https://api.discogs.com/labels/32575"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/boF4w_VlBDb-_jpMOq9RT2MsuMN6t7FsSuynVF7HclI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjY3/Mjg1LTE2NjkzMDA0/MzktODExOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/DK2qZI6io_c1WjeajOG1Gr2tYPteU8pNaks2XWo9HLA/rs:fit/g:sm/q:90/h:599/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjY3/Mjg1LTE2NjkzMDA0/MzktODExOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/25267285"
+    },
+    "id": 25267285
+  },
+  {
+    "instance_id": 1961110127,
+    "rating": 0,
+    "date_added": "2025-03-11T18:01:55-07:00",
+    "basic_information": {
+      "id": 32331414,
+      "title": "Nigeria Special Volume 3: Electronic Innovation Meets Culture And Tradition 1978​-​93 ",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "Various",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Soundway",
+          "id": 32575,
+          "catno": "SNDWLP167",
+          "resource_url": "https://api.discogs.com/labels/32575"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "3",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/lklSE31e0X_AaWn_zRWAlR1FYnx_X6W9i6wBijPSw-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzMx/NDE0LTE3MzI0NjY3/OTMtNTEwMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/DqN7dCYRBshZccVpisdj1JbNRcAPBU8KsNSFN06iRLg/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzMx/NDE0LTE3MzI0NjY3/OTMtNTEwMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32331414"
+    },
+    "id": 32331414
+  },
+  {
+    "instance_id": 2022361987,
+    "rating": 0,
+    "date_added": "2025-05-12T18:05:25-07:00",
+    "basic_information": {
+      "id": 14922028,
+      "title": "Madvillainy",
+      "year": 2019,
+      "artists": [
+        {
+          "name": "MF Doom",
+          "id": 25058,
+          "resource_url": "https://api.discogs.com/artists/25058"
+        },
+        {
+          "name": "Madlib",
+          "id": 16508,
+          "resource_url": "https://api.discogs.com/artists/16508"
+        },
+        {
+          "name": "Madvillain",
+          "id": 157763,
+          "resource_url": "https://api.discogs.com/artists/157763"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Stones Throw Records",
+          "id": 1217,
+          "catno": "STH2065",
+          "resource_url": "https://api.discogs.com/labels/1217"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/yXFA3ib-of055iJ05vh-4LPsO6Eqyz_EdSB3L2k5Gog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIy/MDI4LTE2OTkxNTA2/ODItNzkwNi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xi43sid4UuSpWDyJKeBPqeKZIu7lZw07GZ01u7IjS-0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIy/MDI4LTE2OTkxNTA2/ODItNzkwNi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/14922028"
+    },
+    "id": 14922028
+  },
+  {
+    "instance_id": 1887161940,
+    "rating": 0,
+    "date_added": "2025-01-04T13:03:16-08:00",
+    "basic_information": {
+      "id": 18012016,
+      "title": "Donuts",
+      "year": 2020,
+      "artists": [
+        {
+          "name": "J Dilla",
+          "id": 324866,
+          "resource_url": "https://api.discogs.com/artists/324866"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Stones Throw Records",
+          "id": 1217,
+          "catno": "STH2126",
+          "resource_url": "https://api.discogs.com/labels/1217"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "12\"",
+            "33 ⅓ RPM",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/mZl9J-akSCFegBtBe2rAPsn-DihYvBpTd6439mVs5ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDEy/MDE2LTE2MTY3NzMx/MzAtODQwNi5wbmc.jpeg",
+      "cover_image": "https://i.discogs.com/afmVQzyLrOeSopfsdUd2Ur5NYirzwLXzZvnKbgjtQ4s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDEy/MDE2LTE2MTY3NzMx/MzAtODQwNi5wbmc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/18012016"
+    },
+    "id": 18012016
+  },
+  {
+    "instance_id": 2010926061,
+    "rating": 0,
+    "date_added": "2025-04-27T16:08:57-07:00",
+    "basic_information": {
+      "id": 29715943,
+      "title": "Shades Of Yesterday ",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "DJ Harrison",
+          "id": 3955346,
+          "resource_url": "https://api.discogs.com/artists/3955346"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Stones Throw Records",
+          "id": 1217,
+          "catno": "STH2474",
+          "resource_url": "https://api.discogs.com/labels/1217"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/aVKUJ8GyMt92JUg9kRp4Ogm8xdxcyuQcL6D5J2f1QT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE1/OTQzLTE3MDcyMzg4/NDUtOTU5Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/IpQCX5ogpqbmcxd6zWLrdUFr3e2Kkxar6a59S4-rT6A/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE1/OTQzLTE3MDcyMzg4/NDUtOTU5Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29715943"
+    },
+    "id": 29715943
+  },
+  {
+    "instance_id": 2022038495,
+    "rating": 0,
+    "date_added": "2025-05-11T17:59:47-07:00",
+    "basic_information": {
+      "id": 30901188,
+      "title": "Why Lawd?",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "NxWorries",
+          "id": 4865216,
+          "resource_url": "https://api.discogs.com/artists/4865216"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Stones Throw Records",
+          "id": 1217,
+          "catno": "STH2500",
+          "resource_url": "https://api.discogs.com/labels/1217"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/13122Jeq_dbGxD9VGEpnwXQTbxLeqn9aqfb6P2hLsX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAx/MTg4LTE3MTg5NzE5/NjgtOTk5My5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/eGXH0FrhahlpyYqdTu7Gtm_7Um2tNOarp2iaAJ0k2BM/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAx/MTg4LTE3MTg5NzE5/NjgtOTk5My5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30901188"
+    },
+    "id": 30901188
+  },
+  {
+    "instance_id": 1928668452,
+    "rating": 0,
+    "date_added": "2025-02-09T19:01:47-08:00",
+    "basic_information": {
+      "id": 32573844,
+      "title": "Forward ",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "Bitty Mclean",
+          "id": 7709,
+          "resource_url": "https://api.discogs.com/artists/7709"
+        },
+        {
+          "name": "Sly & Robbie",
+          "id": 5064,
+          "resource_url": "https://api.discogs.com/artists/5064"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Taxi",
+          "id": 18711,
+          "catno": "SRLP004",
+          "resource_url": "https://api.discogs.com/labels/18711"
+        },
+        {
+          "name": "Silent River",
+          "id": 220422,
+          "catno": "SRLP004",
+          "resource_url": "https://api.discogs.com/labels/220422"
+        },
+        {
+          "name": "Tabou 1",
+          "id": 32545,
+          "catno": "SRLP004",
+          "resource_url": "https://api.discogs.com/labels/32545"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/BbNZYIbUcSViR9G49Nm7CXzwpXgqN5h_0VOxBe2Oac8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTcz/ODQ0LTE3MzQyODA3/OTEtMjY5Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LkwOljWSmmf01a86cHi3v_4xWUZIf66cmWqpXIIKHWY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTcz/ODQ0LTE3MzQyODA3/OTEtMjY5Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32573844"
+    },
+    "id": 32573844
+  },
+  {
+    "instance_id": 1955811677,
+    "rating": 0,
+    "date_added": "2025-03-06T19:21:23-08:00",
+    "basic_information": {
+      "id": 29954227,
+      "title": "Misty",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "Tsuyoshi Yamamoto Trio",
+          "id": 1059171,
+          "resource_url": "https://api.discogs.com/artists/1059171"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Three Blind Mice",
+          "id": 50712,
+          "catno": "MHJL 307",
+          "resource_url": "https://api.discogs.com/labels/50712"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/5W_hU2bDaOwm4W5p4SI3V6wuJmnbF8n4zDA6PR0anPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU0/MjI3LTE3MzA2NDM1/NjItOTEwMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/YElxniNwbTGfly5on_DXhmG8saqzy4vXjEUgUKuv4dw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTU0/MjI3LTE3MzA2NDM1/NjItOTEwMy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/29954227"
+    },
+    "id": 29954227
+  },
+  {
+    "instance_id": 1890155091,
+    "rating": 0,
+    "date_added": "2025-01-06T17:50:28-08:00",
+    "basic_information": {
+      "id": 15196746,
+      "title": "To Our Childrens Childrens Children",
+      "year": 0,
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "id": 266422,
+          "resource_url": "https://api.discogs.com/artists/266422"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Threshold (5)",
+          "id": 1411938,
+          "catno": "THS 1",
+          "resource_url": "https://api.discogs.com/labels/1411938"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/cG4LmQwTw35jHpvRtR1seT7v0FLp46RLWjnl87Hmug0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTk2/NzQ2LTE1ODc5NTU5/ODQtMTUyNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bICJgL0om7D0rpntrADY2t1c2ow22XCL8aQRA3eVS20/rs:fit/g:sm/q:90/h:600/w:522/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTk2/NzQ2LTE1ODc5NTU5/ODQtMTUyNS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/15196746"
+    },
+    "id": 15196746
+  },
+  {
+    "instance_id": 2006702835,
+    "rating": 0,
+    "date_added": "2025-04-23T20:32:00-07:00",
+    "basic_information": {
+      "id": 23715572,
+      "title": "Touching Bass Presents: Soon Come",
+      "year": 2022,
+      "artists": [
+        {
+          "name": "Various",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Touching Bass",
+          "id": 1413400,
+          "catno": "TB006",
+          "resource_url": "https://api.discogs.com/labels/1413400"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/xesbrB5Gvl2xao8eCRkCSkd7VEI5uRUKY8feKuzDolA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzE1/NTcyLTE2NTcxMTIw/ODUtNjkzNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/uZlUji9szxxTcv5ACqEclse8-3E_-6DpB_BQ5m2GRKg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzE1/NTcyLTE2NTcxMTIw/ODUtNjkzNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23715572"
+    },
+    "id": 23715572
+  },
+  {
+    "instance_id": 1887094224,
+    "rating": 0,
+    "date_added": "2025-01-04T12:17:25-08:00",
+    "basic_information": {
+      "id": 6101052,
+      "title": "Greatest Folksingers Of The 'Sixties",
+      "year": 1972,
+      "artists": [
+        {
+          "name": "Various",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Vanguard",
+          "id": 1058,
+          "catno": "VSD • 17/18",
+          "resource_url": "https://api.discogs.com/labels/1058"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/j_nd6Z2aNmchFNE9F429NMhhi6-1fjV9m6-OXlLw0D0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDEw/NTItMTQ3NDAzNDQ4/OC02OTM4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/TKnnK0EPaoQBvrrNEsTDvjgkSS87pbGwiFz96_IJ6aQ/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDEw/NTItMTQ3NDAzNDQ4/OC02OTM4LmpwZWc.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6101052"
+    },
+    "id": 6101052
+  },
+  {
+    "instance_id": 2008350375,
+    "rating": 0,
+    "date_added": "2025-04-25T12:22:46-07:00",
+    "basic_information": {
+      "id": 12908257,
+      "title": "Some Of These Days I'll Be Gone",
+      "year": 2018,
+      "artists": [
+        {
+          "name": "Charley Patton",
+          "id": 307420,
+          "resource_url": "https://api.discogs.com/artists/307420"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Wax Love Records",
+          "id": 1362049,
+          "catno": "WLV82077",
+          "resource_url": "https://api.discogs.com/labels/1362049"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/5ukws7dICN_KRjPA3JBjFUvwWnNdkbtKHcSQ4GkvQFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA4/MjU3LTE1NDQyOTQ4/ODAtMzIwNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/LlZMZ__MmabT_z3AVSFeTcxHAh-msVi5CS-utLr75zw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA4/MjU3LTE1NDQyOTQ4/ODAtMzIwNC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/12908257"
+    },
+    "id": 12908257
+  }
+]

@@ -2,24 +2,24 @@
   "name": "@template/cli",
   "version": "0.0.0",
   "type": "module",
-  "packageManager": "pnpm@9.10.0",
+  "packageManager": "bun@1.2.13",
   "license": "MIT",
   "description": "A basic Effect CLI application",
   "repository": {
     "type": "git",
-    "url": "<PLACEHOLDER>"
+    "url": "https://github.com/mkessy/discog_qr"
   },
   "publishConfig": {
     "access": "public",
     "directory": "dist"
   },
   "scripts": {
-    "build": "tsup && pnpm copy-package-json",
+    "build": "tsup && bun copy-package-json",
     "build:ts": "tsup",
     "clean": "rimraf dist/*",
     "check": "tsc -b tsconfig.json",
     "lint": "eslint \"**/{src,test,examples,scripts,dtslint}/**/*.{ts,mjs}\"",
-    "lint-fix": "pnpm lint --fix",
+    "lint-fix": "bun lint --fix",
     "test": "vitest run",
     "coverage": "vitest run --coverage",
     "copy-package-json": "tsx scripts/copy-package-json.ts"
@@ -34,6 +34,7 @@
     "@eslint/compat": "1.1.1",
     "@eslint/eslintrc": "3.1.0",
     "@eslint/js": "9.10.0",
+    "@tim-smart/openapi-gen": "^0.3.18",
     "@types/node": "^22.5.2",
     "@typescript-eslint/eslint-plugin": "^8.4.0",
     "@typescript-eslint/parser": "^8.4.0",
@@ -50,7 +51,14 @@
     "typescript": "^5.6.2",
     "vitest": "^2.0.5"
   },
-  "pnpm": {
+  "bun": {
     "patchedDependencies": {}
-  }
+  },
+  "dependencies": {
+    "@effect/platform-bun": "^0.64.3"
+  },
+  "trustedDependencies": [
+    "@parcel/watcher",
+    "unrs-resolver"
+  ]
 }

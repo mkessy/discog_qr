@@ -1,0 +1,1056 @@
+openapi: 3.1.0
+info:
+  title: Discogs API /users Endpoints
+  version: "v2"
+servers:
+  - url: https://api.discogs.com
+paths:
+  /users/{username}:
+    get:
+      operationId: getUserProfile
+      summary: Get user profile
+      description: "Retrieve a user by username. [oai_citation:0‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-faccd956-6b8d-41fa-89e8-28a6cba0f982#:~:text=) If authenticated as the requested user, the email key will be visible, and the num_list count will include the user’s private lists. If authenticated as the requested user or if the user’s collection/wantlist is public, the num_collection and num_wantlist keys will be included. [oai_citation:1‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-faccd956-6b8d-41fa-89e8-28a6cba0f982#:~:text=If%20authenticated%20as%20the%20requested,include%20the%20user%E2%80%99s%20private%20lists)"
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema:
+            type: string
+          description: The username of the user.
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/UserProfile"
+    post:
+      operationId: editUserProfile
+      summary: Edit user profile
+      description: "Edit a user’s profile data. Authentication as the user is required. [oai_citation:2‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-faccd956-6b8d-41fa-89e8-28a6cba0f982#:~:text=POSTProfile)"
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema:
+            type: string
+          description: The username of the user.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                  description: The user's display name (real name).
+                home_page:
+                  type: string
+                  description: The user's homepage URL.
+                location:
+                  type: string
+                  description: The user's location.
+                profile:
+                  type: string
+                  description: Profile text (biography) for the user.
+              required: []
+      responses:
+        "200":
+          description: Profile updated successfully
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/UserProfile"
+      security:
+        - OAuth1: []
+        - DiscogsToken: []
+  /users/{username}/submissions:
+    get:
+      operationId: getUserSubmissions
+      summary: Get user submissions
+      description: "Retrieve a user’s submissions (database entries submitted by the user). Accepts pagination parameters. [oai_citation:3‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-faccd956-6b8d-41fa-89e8-28a6cba0f982#:~:text=GETUser%20submissions)"
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose submissions to retrieve.
+        - name: page
+          in: query
+          schema: { type: integer, minimum: 1 }
+          description: Page number of the results.
+        - name: per_page
+          in: query
+          schema: { type: integer, minimum: 1 }
+          description: Number of results per page (default 50, maximum 100).
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  pagination:
+                    $ref: "#/components/schemas/Pagination"
+                  submissions:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Contribution"
+  /users/{username}/contributions:
+    get:
+      operationId: getUserContributions
+      summary: Get user contributions
+      description: "Retrieve a user’s contributions (database items contributed by the user). Accepts pagination parameters. The Contributions resource represents releases, labels, and artists submitted by a user. [oai_citation:4‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-faccd956-6b8d-41fa-89e8-28a6cba0f982#:~:text=)"
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose contributions to retrieve.
+        - name: page
+          in: query
+          schema: { type: integer, minimum: 1 }
+          description: Page number of the results.
+        - name: per_page
+          in: query
+          schema: { type: integer, minimum: 1 }
+          description: Number of results per page (default 50, maximum 100).
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  pagination:
+                    $ref: "#/components/schemas/Pagination"
+                  contributions:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Contribution"
+  /users/{username}/collection/folders:
+    get:
+      operationId: listUserCollectionFolders
+      summary: List collection folders
+      description: "Retrieve a list of folders in a user’s collection. [oai_citation:5‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-c7765522-c90e-4d9f-8123-cce5c91eddd4#:~:text=) If the collection has been made private by its owner, authentication as the collection owner is required. If not authenticated and the collection is public, only folder ID 0 (the “All” folder) will be visible. [oai_citation:6‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-c7765522-c90e-4d9f-8123-cce5c91eddd4#:~:text=)"
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose collection folders to retrieve.
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  folders:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/CollectionFolder"
+    post:
+      operationId: createUserCollectionFolder
+      summary: Create collection folder
+      description: "Create a new folder in a user’s collection. Authentication as the collection owner is required."
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose collection to modify.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                  description: Name for the new folder.
+              required:
+                - name
+      responses:
+        "201":
+          description: Folder created
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/CollectionFolder"
+      security:
+        - OAuth1: []
+        - DiscogsToken: []
+  /users/{username}/collection/folders/{folder_id}:
+    get:
+      operationId: getUserCollectionFolderDetails
+      summary: Get collection folder
+      description: "Retrieve metadata about a folder in a user’s collection. [oai_citation:7‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-c7765522-c90e-4d9f-8123-cce5c91eddd4#:~:text=) If folder_id is not 0, authentication as the collection owner is required to view it. [oai_citation:8‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-c7765522-c90e-4d9f-8123-cce5c91eddd4#:~:text=)"
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose collection folder to retrieve.
+        - name: folder_id
+          in: path
+          required: true
+          schema: { type: integer }
+          description: The ID of the folder (0 represents the “All” folder).
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/CollectionFolder"
+    post:
+      operationId: editUserCollectionFolder
+      summary: Edit collection folder
+      description: "Edit a folder’s metadata (e.g., rename a folder). Folders 0 and 1 cannot be renamed. Authentication as the collection owner is required. [oai_citation:9‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-c7765522-c90e-4d9f-8123-cce5c91eddd4#:~:text=)"
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose collection folder to edit.
+        - name: folder_id
+          in: path
+          required: true
+          schema: { type: integer }
+          description: The ID of the folder to edit.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                name:
+                  type: string
+                  description: New name for the folder.
+              required:
+                - name
+      responses:
+        "200":
+          description: Folder updated
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/CollectionFolder"
+      security:
+        - OAuth1: []
+        - DiscogsToken: []
+    delete:
+      operationId: deleteUserCollectionFolder
+      summary: Delete collection folder
+      description: "Delete a folder from a user’s collection. The folder must be empty before it can be deleted. Authentication as the collection owner is required. [oai_citation:10‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-c7765522-c90e-4d9f-8123-cce5c91eddd4#:~:text=DELETECollection%20folder)"
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose collection folder to delete.
+        - name: folder_id
+          in: path
+          required: true
+          schema: { type: integer }
+          description: The ID of the folder to delete.
+      responses:
+        "204":
+          description: Folder deleted successfully (no content)
+      security:
+        - OAuth1: []
+        - DiscogsToken: []
+  /users/{username}/collection/folders/{folder_id}/releases:
+    get:
+      operationId: listReleasesInUserCollectionFolder
+      summary: List releases in folder
+      description: "Retrieve all collection items (releases) within a specific folder of a user’s collection. Accepts pagination parameters. If the collection is private or the folder is not the “All” folder (ID 0), authentication as the owner is required."
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose collection folder items to retrieve.
+        - name: folder_id
+          in: path
+          required: true
+          schema: { type: integer }
+          description: The ID of the folder to retrieve items from.
+        - name: page
+          in: query
+          schema: { type: integer, minimum: 1 }
+          description: Page number of the results.
+        - name: per_page
+          in: query
+          schema: { type: integer, minimum: 1 }
+          description: Number of items per page (default 50, maximum 100).
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  pagination:
+                    $ref: "#/components/schemas/Pagination"
+                  releases:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/CollectionItem"
+    post:
+      operationId: addReleaseToUserCollectionFolder
+      summary: Add release to collection
+      description: "Add a specified release to a user’s collection (to the given folder). Authentication as the collection owner is required."
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose collection to modify.
+        - name: folder_id
+          in: path
+          required: true
+          schema: { type: integer }
+          description: The ID of the target folder.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                release_id:
+                  type: integer
+                  description: The ID of the release to add.
+                notes:
+                  type: string
+                  description: Notes or comments about this item.
+                media_condition:
+                  type: string
+                  description: Media condition of the item (e.g. "Mint (M)").
+                sleeve_condition:
+                  type: string
+                  description: Sleeve/jacket condition of the item.
+                rating:
+                  type: integer
+                  description: User’s rating for this release (1-5).
+                fields:
+                  type: array
+                  description: List of custom field values for this item.
+                  items:
+                    type: object
+                    properties:
+                      field_id:
+                        type: integer
+                      value:
+                        type: string
+              required:
+                - release_id
+      responses:
+        "201":
+          description: Release added to collection
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/CollectionItem"
+      security:
+        - OAuth1: []
+        - DiscogsToken: []
+  /users/{username}/collection/releases/{release_id}:
+    get:
+      operationId: getUserCollectionItemsByRelease
+      summary: Get collection items by release
+      description: "Retrieve the collection items (instances) of a given release in the user’s collection. Accepts pagination parameters. If the collection is private, authentication as the owner is required."
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose collection to query.
+        - name: release_id
+          in: path
+          required: true
+          schema: { type: integer }
+          description: The release ID to find in the user's collection.
+        - name: page
+          in: query
+          schema: { type: integer, minimum: 1 }
+          description: Page number of the results.
+        - name: per_page
+          in: query
+          schema: { type: integer, minimum: 1 }
+          description: Number of items per page (default 50, maximum 100).
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  pagination:
+                    $ref: "#/components/schemas/Pagination"
+                  releases:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/CollectionItem"
+  /users/{username}/collection/folders/{folder_id}/releases/{release_id}/instances/{instance_id}:
+    post:
+      operationId: editUserCollectionItemInstance
+      summary: Edit collection item
+      description: "Edit the fields of a specific collection item (release instance). This can be used to update the notes or condition ratings (media/sleeve) for the item, or to update custom field values. Authentication as the collection owner is required."
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username who owns the collection.
+        - name: folder_id
+          in: path
+          required: true
+          schema: { type: integer }
+          description: The current folder ID of the item.
+        - name: release_id
+          in: path
+          required: true
+          schema: { type: integer }
+          description: The release ID of the item.
+        - name: instance_id
+          in: path
+          required: true
+          schema: { type: integer }
+          description: The unique instance ID of the collection item.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                notes:
+                  type: string
+                  description: Updated notes for the item.
+                media_condition:
+                  type: string
+                  description: Updated media condition.
+                sleeve_condition:
+                  type: string
+                  description: Updated sleeve condition.
+                rating:
+                  type: integer
+                  description: Updated rating for the release.
+                fields:
+                  type: array
+                  description: Updated custom field values.
+                  items:
+                    type: object
+                    properties:
+                      field_id:
+                        type: integer
+                      value:
+                        type: string
+      responses:
+        "200":
+          description: Collection item updated
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/CollectionItem"
+      security:
+        - OAuth1: []
+        - DiscogsToken: []
+    delete:
+      operationId: deleteUserCollectionItemInstance
+      summary: Delete collection item
+      description: "Remove a specific item (instance of a release) from the user’s collection. Authentication as the collection owner is required."
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username who owns the collection.
+        - name: folder_id
+          in: path
+          required: true
+          schema: { type: integer }
+          description: The folder ID where the item is currently located.
+        - name: release_id
+          in: path
+          required: true
+          schema: { type: integer }
+          description: The release ID of the item to remove.
+        - name: instance_id
+          in: path
+          required: true
+          schema: { type: integer }
+          description: The instance ID of the collection item to remove.
+      responses:
+        "204":
+          description: Item removed from collection (no content)
+      security:
+        - OAuth1: []
+        - DiscogsToken: []
+  /users/{username}/collection/fields:
+    get:
+      operationId: listUserCollectionCustomFields
+      summary: List custom fields
+      description: "List the custom collection fields defined by the user (for their collection). Authentication as the user is required to retrieve this information."
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose custom fields to retrieve.
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  fields:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/CustomField"
+      security:
+        - OAuth1: []
+        - DiscogsToken: []
+  /users/{username}/collection/value:
+    get:
+      operationId: getUserCollectionValue
+      summary: Get collection value
+      description: "Returns the minimum, median, and maximum value of a user’s collection. Authentication as the collection owner is required. [oai_citation:11‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-7fd1de98-697a-4556-8dfb-bd925a1f0f93#:~:text=)"
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose collection value to retrieve.
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/CollectionValue"
+      security:
+        - OAuth1: []
+        - DiscogsToken: []
+  /users/{username}/wants:
+    get:
+      operationId: listUserWantlistItems
+      summary: List wantlist
+      description: "Returns the list of releases in a user’s wantlist. Accepts pagination parameters. [oai_citation:12‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-7fd1de98-697a-4556-8dfb-bd925a1f0f93#:~:text=GETWantlist) Basic information about each wanted release is provided, suitable for list display (for detailed release information, a separate release request is required). If the wantlist has been made private by its owner, authentication as the owner is required to view it. The notes field for each wantlist item will be visible only when authenticated as the wantlist owner. [oai_citation:13‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-7fd1de98-697a-4556-8dfb-bd925a1f0f93#:~:text=If%20the%20wantlist%20has%20been,the%20owner%20to%20view%20it)"
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose wantlist to retrieve.
+        - name: page
+          in: query
+          schema: { type: integer, minimum: 1 }
+          description: Page number of the results.
+        - name: per_page
+          in: query
+          schema: { type: integer, minimum: 1 }
+          description: Number of results per page (default 50, maximum 100).
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  pagination:
+                    $ref: "#/components/schemas/Pagination"
+                  wants:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/WantItem"
+  /users/{username}/wants/{release_id}:
+    post:
+      operationId: addReleaseToUserWantlist
+      summary: Add to wantlist
+      description: "Add a release to a user’s wantlist. Authentication as the wantlist owner is required. [oai_citation:14‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-7fd1de98-697a-4556-8dfb-bd925a1f0f93#:~:text=)"
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose wantlist to modify.
+        - name: release_id
+          in: path
+          required: true
+          schema: { type: integer }
+          description: The ID of the release to add to the wantlist.
+      requestBody:
+        required: false
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                notes:
+                  type: string
+                  description: Optional notes for the wanted release.
+      responses:
+        "201":
+          description: Release added to wantlist
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/WantItem"
+      security:
+        - OAuth1: []
+        - DiscogsToken: []
+    delete:
+      operationId: deleteReleaseFromUserWantlist
+      summary: Delete from wantlist
+      description: "Remove a release from a user’s wantlist. Authentication as the wantlist owner is required. [oai_citation:15‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-7fd1de98-697a-4556-8dfb-bd925a1f0f93#:~:text=DELETEDelete%20release%20from%20wantlist)"
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose wantlist to modify.
+        - name: release_id
+          in: path
+          required: true
+          schema: { type: integer }
+          description: The ID of the release to remove from the wantlist.
+      responses:
+        "204":
+          description: Release removed from wantlist (no content)
+      security:
+        - OAuth1: []
+        - DiscogsToken: []
+  /users/{username}/lists:
+    get:
+      operationId: listUserLists
+      summary: List user lists
+      description: "Returns a user’s lists (custom lists of releases). Private lists will only be shown when authenticated as the list owner. [oai_citation:16‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=folder-32055786-7fd1de98-697a-4556-8dfb-bd925a1f0f93#:~:text=GETUser%20Lists)"
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose lists to retrieve.
+        - name: page
+          in: query
+          schema: { type: integer, minimum: 1 }
+          description: Page number of the results.
+        - name: per_page
+          in: query
+          schema: { type: integer, minimum: 1 }
+          description: Number of results per page (default 50, maximum 100).
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  pagination:
+                    $ref: "#/components/schemas/Pagination"
+                  lists:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/UserListSummary"
+  /users/{username}/inventory:
+    get:
+      operationId: listUserInventoryItems
+      summary: List inventory items
+      description: "Returns the list of listings in a user’s inventory (items for sale). Accepts pagination parameters. [oai_citation:17‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=request-32055786-2508c32a-08e4-4b34-94c9-6f15001e73ca#:~:text=) Basic information about each listing and the corresponding release is provided, suitable for display in a list. If you are not authenticated as the inventory owner, only listings with status “For Sale” will be visible. If authenticated as the inventory owner, additional fields (weight, format_quantity, external_id, and location) are included, and each listing will indicate if it is in the authenticated user’s cart. [oai_citation:18‡postman.com](https://www.postman.com/cdrecordsale/my-workspace/documentation/dy6eozk/discogs?entity=request-32055786-2508c32a-08e4-4b34-94c9-6f15001e73ca#:~:text=If%20you%20are%20not%20authenticated,listing%20is%20in%20their%20cart)"
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema: { type: string }
+          description: The username whose marketplace inventory to retrieve.
+        - name: status
+          in: query
+          schema:
+            type: string
+            enum: ["For Sale", "Draft", "Expired", "Sold", "All"]
+          description: Filter by listing status (e.g. "For Sale").
+        - name: sort
+          in: query
+          schema:
+            type: string
+            enum: [listed, price, item, artist, label, audio, status, location]
+          description: Sort listings by this field (e.g. "price").
+        - name: sort_order
+          in: query
+          schema:
+            type: string
+            enum: [asc, desc]
+          description: Sort order (ascending or descending).
+        - name: page
+          in: query
+          schema: { type: integer, minimum: 1 }
+          description: Page number of the results.
+        - name: per_page
+          in: query
+          schema: { type: integer, minimum: 1 }
+          description: Number of results per page (default 50, maximum 100).
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  pagination:
+                    $ref: "#/components/schemas/Pagination"
+                  listings:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Listing"
+components:
+  securitySchemes:
+    OAuth1:
+      type: apiKey
+      name: Authorization
+      in: header
+      description: "OAuth 1.0a authentication using consumer key/secret and token/secret. The `Authorization` header must contain a valid OAuth signature."
+    DiscogsToken:
+      type: apiKey
+      name: Authorization
+      in: header
+      description: "Discogs token-based authentication. Provide your personal access token in the `Authorization` header using the format `Discogs token={TOKEN}`."
+  schemas:
+    UserProfile:
+      type: object
+      description: A Discogs user profile.
+      properties:
+        username:
+          type: string
+        id:
+          type: integer
+        name:
+          type: string
+          description: The user's display (real) name.
+        profile:
+          type: string
+          description: The user’s profile bio.
+        home_page:
+          type: string
+        location:
+          type: string
+        registered:
+          type: string
+          format: date # Consider date-time if time is included
+          description: Date the user joined Discogs.
+        rank:
+          type: integer
+          description: The user’s contributor rank (number of contributions).
+        num_collection:
+          type: integer
+          description: Number of items in the user’s collection.
+        num_wantlist:
+          type: integer
+          description: Number of items in the user’s wantlist.
+        num_list:
+          type: integer
+          description: Number of user lists the user has (including private lists if this is the user's own view).
+        num_for_sale:
+          type: integer
+          description: Number of items the user has listed for sale.
+        email:
+          type: string
+          format: email
+          description: Email address (visible only when the request is authenticated as this user).
+        inventory_url:
+          type: string
+          format: uri
+        collection_folders_url:
+          type: string
+          format: uri
+        wantlist_url:
+          type: string
+          format: uri
+        uri:
+          type: string
+          format: uri
+          description: URL to the user's public Discogs profile page.
+        resource_url:
+          type: string
+          format: uri
+      required: [username, id, resource_url]
+    Contribution:
+      type: object
+      description: An item (release, artist, or label) contributed by a user.
+      properties:
+        type:
+          type: string
+          description: The object type (e.g. "release", "artist", "label").
+        id:
+          type: integer
+        title:
+          type: string
+          description: The title of the release or name of the artist/label.
+        year:
+          type: integer
+          description: Release year (for releases, if available).
+        thumb:
+          type: string
+          format: uri
+          description: URL to a thumbnail image (if available).
+        resource_url:
+          type: string
+          format: uri
+      required: [id, type, title, resource_url]
+    CollectionFolder:
+      type: object
+      description: A collection folder belonging to a user.
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        count:
+          type: integer
+          description: Number of items (releases) in this folder.
+        resource_url:
+          type: string
+          format: uri
+      required: [id, name, count, resource_url]
+    CollectionItem:
+      type: object
+      description: An item in a user’s collection (a specific instance of a release).
+      properties:
+        instance_id:
+          type: integer
+          description: Unique ID for this collection item.
+        folder_id:
+          type: integer
+          description: The ID of the folder containing this item.
+        rating:
+          type: integer
+          description: User’s rating of the release (1-5).
+        notes:
+          type: string
+          description: User’s notes for this item.
+        media_condition:
+          type: string
+        sleeve_condition:
+          type: string
+        date_added:
+          type: string
+          format: date-time
+        basic_information:
+          $ref: "#/components/schemas/ReleaseSummary"
+        id:
+          type: integer
+          description: The release ID of the item.
+      required: [instance_id, id, basic_information]
+    ReleaseSummary:
+      type: object
+      description: Basic information about a release.
+      properties:
+        id:
+          type: integer
+        title:
+          type: string
+        year:
+          type: integer
+        artists:
+          type: array
+          items:
+            type: object
+            properties:
+              name: { type: string }
+              id: { type: integer }
+              resource_url: { type: string, format: uri }
+        labels:
+          type: array
+          items:
+            type: object
+            properties:
+              name: { type: string }
+              id: { type: integer }
+              catno: { type: string }
+              resource_url: { type: string, format: uri }
+        formats:
+          type: array
+          items:
+            type: object
+            properties:
+              name: { type: string }
+              qty: { type: string }
+              descriptions:
+                type: array
+                items: { type: string }
+        thumb:
+          type: string
+          format: uri
+          description: URL to a thumbnail image of the release cover.
+        cover_image:
+          type: string
+          format: uri
+          description: URL to the full cover image.
+        resource_url:
+          type: string
+          format: uri
+      required: [id, title, resource_url]
+    CustomField:
+      type: object
+      description: A custom collection field defined by the user.
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+      required: [id, name]
+    CollectionValue:
+      type: object
+      description: Estimated value of a user’s collection.
+      properties:
+        minimum:
+          $ref: "#/components/schemas/Price"
+        median:
+          $ref: "#/components/schemas/Price"
+        maximum:
+          $ref: "#/components/schemas/Price"
+      required: [minimum, median, maximum]
+    Price:
+      type: object
+      properties:
+        value:
+          type: number # format: float is valid but type: number is sufficient
+        currency:
+          type: string
+      required: [value, currency]
+    WantItem:
+      type: object
+      description: An item in a user’s wantlist.
+      properties:
+        id:
+          type: integer
+          description: The release ID of the wanted item.
+        rating:
+          type: integer
+          description: The user’s rating for this release (if rated).
+        date_added:
+          type: string
+          format: date-time
+        notes:
+          type: string
+        basic_information:
+          $ref: "#/components/schemas/ReleaseSummary"
+        resource_url:
+          type: string
+          format: uri
+      required: [id, basic_information, resource_url]
+    UserListSummary:
+      type: object
+      description: Summary information about a user-created list.
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        description:
+          type: string
+        public:
+          type: boolean
+        item_count:
+          type: integer
+          description: Number of items in the list.
+        resource_url:
+          type: string
+          format: uri
+      required: [id, name, resource_url]
+    Listing:
+      type: object
+      description: A marketplace listing (item for sale) in a user’s inventory.
+      properties:
+        id:
+          type: integer
+        status:
+          type: string
+          description: The listing status (e.g. "For Sale", "Sold", etc.).
+        price:
+          $ref: "#/components/schemas/Price"
+        condition:
+          type: string
+          description: The condition of the item (media).
+        sleeve_condition:
+          type: string
+          description: The condition of the sleeve (if applicable).
+        shipping_price:
+          $ref: "#/components/schemas/Price"
+          description: The shipping price (if applicable, for orders).
+        allow_offers:
+          type: boolean
+        comments:
+          type: string
+          description: Seller’s comments about the item.
+        private_comments:
+          type: string
+          description: Seller’s private comments (visible only to the seller).
+        created:
+          type: string
+          format: date-time
+          description: Listing creation timestamp.
+        weight:
+          type: integer
+          description: Weight of the item (in grams, available to owner).
+        format_quantity:
+          type: integer
+          description: Number of media (e.g., discs) included, available to owner.
+        external_id:
+          type: string
+          description: Seller’s external ID for the item (if set, available to owner).
+        location:
+          type: string
+          description: Seller’s storage location identifier (if set, available to owner).
+        release:
+          $ref: "#/components/schemas/ReleaseSummary"
+        resource_url:
+          type: string
+          format: uri
+        in_cart:
+          type: boolean
+          description: Whether this listing is currently in the authenticated user’s cart (only if the request is authenticated as some user).
+      required: [id, status, price, release, resource_url]
+    Pagination:
+      type: object
+      description: Pagination information for list results.
+      properties:
+        page:
+          type: integer
+        per_page:
+          type: integer
+        pages:
+          type: integer
+        items:
+          type: integer
+        urls:
+          type: object
+          properties:
+            last:
+              type: string
+              format: uri
+            next:
+              type: string
+              format: uri
+            prev:
+              type: string
+              format: uri
+            first:
+              type: string
+              format: uri

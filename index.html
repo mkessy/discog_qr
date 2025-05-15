@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interbay Ramen Records</title>
+    <style>
+        :root {
+            --bg-color: #121212;
+            /* Even darker, classic dark mode background */
+            --card-bg-color: #1e1e1e;
+            /* Card background for each record section */
+            --primary-text-color: #e0e0e0;
+            --secondary-text-color: #b0b0b0;
+            /* Softer grey for less emphasis */
+            --accent-color: #bb86fc;
+            /* A vibrant accent for a modern dark theme (Material Design inspired purple) */
+            --font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            --line-height-normal: 1.6;
+        }
+
+        html {
+            scroll-behavior: smooth;
+            /* Optional: Smooth scrolling between snaps */
+        }
+
+        body {
+            font-family: var(--font-family);
+            margin: 0;
+            background-color: var(--bg-color);
+            color: var(--primary-text-color);
+            line-height: var(--line-height-normal);
+            /* overflow: hidden; Prevent scrollbars on body if container handles it */
+        }
+
+        /* Scroll Snap Container */
+        .collection-container {
+            height: 100vh;
+            /* Full viewport height */
+            overflow-y: scroll;
+            /* Enable vertical scrolling on this container */
+            scroll-snap-type: y mandatory;
+            /* Snap on the Y-axis, always snap */
+            -webkit-overflow-scrolling: touch;
+            /* Momentum-based scrolling for touch devices */
+        }
+
+        .release-section {
+            height: 100vh;
+            /* Each record section is full viewport height */
+            scroll-snap-align: start;
+            /* Snap to the start of each section */
+            display: flex;
+            flex-direction: column;
+            /* Default for mobile, can change for desktop */
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            box-sizing: border-box;
+            background-color: var(--card-bg-color);
+            /* Each section has its own "card" like bg */
+            border-bottom: 1px solid #000;
+            /* Separator for visual cue, adjust as needed */
+            text-align: center;
+            /* Center content within the section */
+        }
+
+        /* On larger screens, maybe a side-by-side layout */
+        @media (min-width: 768px) {
+            .release-section {
+                flex-direction: row;
+                justify-content: space-around;
+                /* Space out image and text */
+                text-align: left;
+            }
+
+            .release-cover {
+                flex-basis: 45%;
+                /* Image takes up ~45% */
+                max-width: 400px;
+                /* Max size for the image */
+                margin-right: 30px;
+                /* Space between image and text */
+            }
+
+            .release-info {
+                flex-basis: 50%;
+                /* Text takes up ~50% */
+                max-width: 500px;
+            }
+        }
+
+
+        .release-cover {
+            width: 80vw;
+            /* Responsive width, max for mobile */
+            max-width: 350px;
+            /* Max width for the cover */
+            aspect-ratio: 1 / 1;
+            background-color: #2a2a2a;
+            /* Darker placeholder */
+            border-radius: 8px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+            margin-bottom: 20px;
+            /* Space below cover on mobile */
+            overflow: hidden;
+        }
+
+        .release-cover img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+            border-radius: 8px;
+            /* Match parent's border radius */
+        }
+
+        .no-image-placeholder {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--secondary-text-color);
+            font-size: 1em;
+            text-align: center;
+            border-radius: 8px;
+        }
+
+        .release-info {
+            max-width: 90vw;
+            /* Ensure text doesn't get too wide on mobile */
+        }
+
+        .release-info h1 {
+            /* Title - more prominent */
+            font-size: 2em;
+            /* Larger for single view */
+            font-weight: 600;
+            margin: 0 0 8px 0;
+            color: var(--primary-text-color);
+            line-height: 1.2;
+        }
+
+        .release-info .artist-year {
+            font-size: 1.2em;
+            /* Larger */
+            color: var(--secondary-text-color);
+            margin-bottom: 15px;
+            line-height: 1.4;
+        }
+
+        .release-info .artist-name {
+            font-weight: 500;
+        }
+
+        .release-info .year-separator {
+            margin: 0 8px;
+            opacity: 0.7;
+        }
+
+        .release-info .year {
+            opacity: 0.9;
+        }
+
+        .release-info .format-details {
+            font-size: 0.9em;
+            /* Slightly larger footnote */
+            color: var(--secondary-text-color);
+            opacity: 0.8;
+            font-style: italic;
+            line-height: 1.5;
+            margin-top: 10px;
+        }
+
+        #loadingMessage,
+        #errorMessage {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5em;
+            color: var(--secondary-text-color);
+        }
+
+        /* Minimalist scrollbar for webkit browsers */
+        .collection-container::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .collection-container::-webkit-scrollbar-track {
+            background: var(--bg-color);
+        }
+
+        .collection-container::-webkit-scrollbar-thumb {
+            background-color: var(--accent-color);
+            border-radius: 6px;
+        }
+
+        .collection-container::-webkit-scrollbar-thumb:hover {
+            background-color: #c99aff;
+            /* Lighter accent on hover */
+        }
+    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <div id="loadingMessage">Spinning the records...</div>
+    <div id="collectionContainer" class="collection-container" style="display: none;">
+    </div>
+    <div id="errorMessage" style="display: none;">Could not load collection.</div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const container = document.getElementById('collectionContainer');
+            const loadingMessage = document.getElementById('loadingMessage');
+            const errorMessage = document.getElementById('errorMessage');
+
+            fetch('releases.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(releases => {
+                    if (!releases || releases.length === 0) {
+                        loadingMessage.style.display = 'none';
+                        errorMessage.textContent = 'No releases found in collection.';
+                        errorMessage.style.display = 'flex';
+                        return;
+                    }
+
+                    releases.forEach(release => {
+                        const item = release.basic_information;
+
+                        const sectionElement = document.createElement('section');
+                        sectionElement.classList.add('release-section');
+
+                        const coverDiv = document.createElement('div');
+                        coverDiv.classList.add('release-cover');
+                        const imageUrl = item.cover_image && !item.cover_image.includes('default-release.png')
+                            ? item.cover_image
+                            : (item.thumb && !item.thumb.includes('default-release-150.png') ? item.thumb.replace('/h:150/w:150', '/h:600/w:600') : null);
+
+                        if (imageUrl) {
+                            const img = document.createElement('img');
+                            img.src = imageUrl;
+                            img.alt = `Cover of ${item.title || 'album'}`;
+                            img.onerror = function () { // More robust fallback
+                                const placeholder = this.parentElement.querySelector('.no-image-placeholder') || document.createElement('div');
+                                placeholder.classList.add('no-image-placeholder');
+                                placeholder.textContent = 'Image Unavailable';
+                                if (this.parentElement) { this.parentElement.innerHTML = ''; this.parentElement.appendChild(placeholder); }
+                            };
+                            coverDiv.appendChild(img);
+                        } else {
+                            coverDiv.innerHTML = '<div class="no-image-placeholder">No Image</div>';
+                        }
+                        sectionElement.appendChild(coverDiv);
+
+                        const infoElement = document.createElement('div');
+                        infoElement.classList.add('release-info');
+
+                        const titleElement = document.createElement('h1'); // Using h1 for the title of the "page"
+                        titleElement.textContent = item.title || 'Untitled Album';
+                        infoElement.appendChild(titleElement);
+
+                        const artistYearElement = document.createElement('p');
+                        artistYearElement.classList.add('artist-year');
+                        let artistYearText = `<span class="artist-name">${item.artists && item.artists.length > 0 ? item.artists.map(a => a.name).join(', ') : 'Unknown Artist'}</span>`;
+                        if (item.year && item.year !== 0) {
+                            artistYearText += `<span class="year-separator"> • </span><span class="year">${item.year}</span>`;
+                        }
+                        artistYearElement.innerHTML = artistYearText;
+                        infoElement.appendChild(artistYearElement);
+
+                        if (item.formats && item.formats.length > 0) {
+                            const format = item.formats[0]; // Still assuming primary format for simplicity here
+                            if (format.descriptions && format.descriptions.length > 0) {
+                                const formatDiv = document.createElement('p'); // Changed to p for semantic flow
+                                formatDiv.classList.add('format-details');
+                                formatDiv.textContent = format.descriptions.join(', ');
+                                infoElement.appendChild(formatDiv);
+                            }
+                        }
+                        sectionElement.appendChild(infoElement);
+                        container.appendChild(sectionElement);
+                    });
+                    loadingMessage.style.display = 'none';
+                    container.style.display = 'block'; // Show container only after loading
+                })
+                .catch(error => {
+                    loadingMessage.style.display = 'none';
+                    console.error('Error fetching or parsing releases.json:', error);
+                    errorMessage.style.display = 'flex';
+                });
+        });
+    </script>
+</body>
+
+</html>
