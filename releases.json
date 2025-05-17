@@ -92,6 +92,47 @@
     "id": 25243042
   },
   {
+    "instance_id": 2023847496,
+    "rating": 0,
+    "date_added": "2025-05-17T14:51:45-07:00",
+    "basic_information": {
+      "id": 23224466,
+      "title": "Ice Pickin'",
+      "year": 2022,
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "id": 282723,
+          "resource_url": "https://api.discogs.com/artists/282723"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Alligator Records",
+          "id": 26968,
+          "catno": "AL 2713",
+          "resource_url": "https://api.discogs.com/labels/26968"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/7ZJVxLIBch4kF4AL7SnSunVljF0zw7SMLmH63hiedGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjI0/NDY2LTE2NTI1NDEx/OTItNjQyOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/IIl9TweznP-nscH6F-BGEW9-KqBSPyWvm77gBah7qqc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjI0/NDY2LTE2NTI1NDEx/OTItNjQyOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/23224466"
+    },
+    "id": 23224466
+  },
+  {
     "instance_id": 1944037707,
     "rating": 0,
     "date_added": "2025-02-23T14:32:46-08:00",
@@ -211,6 +252,53 @@
       "resource_url": "https://api.discogs.com/releases/4052030"
     },
     "id": 4052030
+  },
+  {
+    "instance_id": 2023847627,
+    "rating": 0,
+    "date_added": "2025-05-17T14:52:13-07:00",
+    "basic_information": {
+      "id": 22512584,
+      "title": "Gece",
+      "year": 0,
+      "artists": [
+        {
+          "name": "Altın Gün",
+          "id": 5793123,
+          "resource_url": "https://api.discogs.com/artists/5793123"
+        }
+      ],
+      "labels": [
+        {
+          "name": "ATO Records",
+          "id": 19639,
+          "catno": "ATO0490",
+          "resource_url": "https://api.discogs.com/labels/19639"
+        },
+        {
+          "name": "ATO Records",
+          "id": 19639,
+          "catno": "0882448912",
+          "resource_url": "https://api.discogs.com/labels/19639"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/1GOYqm2awIO2hCrbBaZVQXyypEZ7Hy1QNhJC9ABa3Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTEy/NTg0LTE3NDE5NzM1/MzMtMjAwNy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/VraP1n2lZCbI8vkboZ1gQksTrixagwmeP_4Paykk2Cw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTEy/NTg0LTE3NDE5NzM1/MzMtMjAwNy5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22512584"
+    },
+    "id": 22512584
   },
   {
     "instance_id": 2016298386,
@@ -1780,6 +1868,47 @@
     "id": 25241029
   },
   {
+    "instance_id": 2023847420,
+    "rating": 0,
+    "date_added": "2025-05-17T14:51:29-07:00",
+    "basic_information": {
+      "id": 27432483,
+      "title": "Fresh",
+      "year": 2023,
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "id": 39768,
+          "resource_url": "https://api.discogs.com/artists/39768"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Legacy",
+          "id": 15491,
+          "catno": "196587410315",
+          "resource_url": "https://api.discogs.com/labels/15491"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Record Store Day",
+            "Reissue"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/QW1VXtpNYLmlOTYva4V2J9k6XCXlNVVEEODZkGj5rm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDMy/NDgzLTE2OTM2ODQ2/MTYtNzI2Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/3U4bsZy4tPg7A0jLeoQCp18NlXMS3QNL5JT756XgqUw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDMy/NDgzLTE2OTM2ODQ2/MTYtNzI2Ny5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/27432483"
+    },
+    "id": 27432483
+  },
+  {
     "instance_id": 2007734982,
     "rating": 0,
     "date_added": "2025-04-24T23:05:21-07:00",
@@ -2743,6 +2872,45 @@
       "resource_url": "https://api.discogs.com/releases/7250111"
     },
     "id": 7250111
+  },
+  {
+    "instance_id": 2023847776,
+    "rating": 0,
+    "date_added": "2025-05-17T14:52:43-07:00",
+    "basic_information": {
+      "id": 22095874,
+      "title": "Agadez",
+      "year": 2022,
+      "artists": [
+        {
+          "name": "Etran De L'Aïr",
+          "id": 5562959,
+          "resource_url": "https://api.discogs.com/artists/5562959"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sahel Sounds",
+          "id": 257251,
+          "catno": "SS-068",
+          "resource_url": "https://api.discogs.com/labels/257251"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/hOujFPHJGZXun-G-7xaax9_dgvCG0RRhd1Z0jZj7xFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDk1/ODc0LTE2NDcwNTE2/NjMtMjI2Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Yav4jIQNKTLDkBPeA8ItoO9KsXCfRx-pIf6UUDHcYgw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDk1/ODc0LTE2NDcwNTE2/NjMtMjI2Mi5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22095874"
+    },
+    "id": 22095874
   },
   {
     "instance_id": 1944197220,
