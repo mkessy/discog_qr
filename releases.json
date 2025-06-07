@@ -789,6 +789,47 @@
     "id": 26828174
   },
   {
+    "instance_id": 2029037385,
+    "rating": 0,
+    "date_added": "2025-06-02T21:26:57-07:00",
+    "basic_information": {
+      "id": 22278412,
+      "title": "African Rock",
+      "year": 2022,
+      "artists": [
+        {
+          "name": "Akira Ishikawa & Count Buffaloes",
+          "id": 443229,
+          "resource_url": "https://api.discogs.com/artists/443229"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Cinedelic Records",
+          "id": 43770,
+          "catno": "CNLP 63",
+          "resource_url": "https://api.discogs.com/labels/43770"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/RNxzdG8mAcq5k0Lz9Xm1h7mrUd7NCKT62VZpFaNB8sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjc4/NDEyLTE2NDYyMzQ2/MDEtNjE2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/odzV9uUvKZpWR1oXJ367TPZR-uu7PFCv9yph279AlCQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjc4/NDEyLTE2NDYyMzQ2/MDEtNjE2MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/22278412"
+    },
+    "id": 22278412
+  },
+  {
     "instance_id": 1887143625,
     "rating": 0,
     "date_added": "2025-01-04T12:50:58-08:00",
@@ -1246,6 +1287,45 @@
     "id": 22895636
   },
   {
+    "instance_id": 2027712571,
+    "rating": 0,
+    "date_added": "2025-05-29T19:26:15-07:00",
+    "basic_information": {
+      "id": 32876553,
+      "title": "Día",
+      "year": 2025,
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "id": 4802432,
+          "resource_url": "https://api.discogs.com/artists/4802432"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Domino",
+          "id": 26465,
+          "catno": "WIGLP504",
+          "resource_url": "https://api.discogs.com/labels/26465"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/tc2sqxKlwkm0OzA7RBV0S_bMPHC9lO-ETtIP_El3bPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc2/NTUzLTE3Mzc5MDIx/MjAtMzY3OC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/dsXMcuVH_T6CIZBQvR9hhEsK1RtC0qN3IpX6qLp8hy4/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc2/NTUzLTE3Mzc5MDIx/MjAtMzY3OC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/32876553"
+    },
+    "id": 32876553
+  },
+  {
     "instance_id": 2011073667,
     "rating": 0,
     "date_added": "2025-04-27T20:17:22-07:00",
@@ -1285,6 +1365,48 @@
       "resource_url": "https://api.discogs.com/releases/28368403"
     },
     "id": 28368403
+  },
+  {
+    "instance_id": 2023880057,
+    "rating": 0,
+    "date_added": "2025-05-17T17:15:46-07:00",
+    "basic_information": {
+      "id": 10354011,
+      "title": "Fresh",
+      "year": 2017,
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "id": 39768,
+          "resource_url": "https://api.discogs.com/artists/39768"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Epic",
+          "id": 1005,
+          "catno": "88985431601",
+          "resource_url": "https://api.discogs.com/labels/1005"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/O3Z_EeS2Q02G_7GUjry5URO5ltWtHDkhghcb2rxVCk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU0/MDExLTE0OTYyMDkz/NDctMzUwMS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/kZ3p5vy_ehdLFsW9-CRq9CBIwJFeXiAE7v22DAVg0hY/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzU0/MDExLTE0OTYyMDkz/NDctMzUwMS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/10354011"
+    },
+    "id": 10354011
   },
   {
     "instance_id": 1887132237,
@@ -1868,47 +1990,6 @@
     "id": 25241029
   },
   {
-    "instance_id": 2023847420,
-    "rating": 0,
-    "date_added": "2025-05-17T14:51:29-07:00",
-    "basic_information": {
-      "id": 27432483,
-      "title": "Fresh",
-      "year": 2023,
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "id": 39768,
-          "resource_url": "https://api.discogs.com/artists/39768"
-        }
-      ],
-      "labels": [
-        {
-          "name": "Legacy",
-          "id": 15491,
-          "catno": "196587410315",
-          "resource_url": "https://api.discogs.com/labels/15491"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "descriptions": [
-            "LP",
-            "Album",
-            "Record Store Day",
-            "Reissue"
-          ]
-        }
-      ],
-      "thumb": "https://i.discogs.com/QW1VXtpNYLmlOTYva4V2J9k6XCXlNVVEEODZkGj5rm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDMy/NDgzLTE2OTM2ODQ2/MTYtNzI2Ny5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/3U4bsZy4tPg7A0jLeoQCp18NlXMS3QNL5JT756XgqUw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDMy/NDgzLTE2OTM2ODQ2/MTYtNzI2Ny5qcGVn.jpeg",
-      "resource_url": "https://api.discogs.com/releases/27432483"
-    },
-    "id": 27432483
-  },
-  {
     "instance_id": 2007734982,
     "rating": 0,
     "date_added": "2025-04-24T23:05:21-07:00",
@@ -2059,6 +2140,51 @@
       "resource_url": "https://api.discogs.com/releases/4997673"
     },
     "id": 4997673
+  },
+  {
+    "instance_id": 2027712655,
+    "rating": 0,
+    "date_added": "2025-05-29T19:26:55-07:00",
+    "basic_information": {
+      "id": 21207784,
+      "title": "Delta Estácio Blues",
+      "year": 2021,
+      "artists": [
+        {
+          "name": "Juçara Marçal",
+          "id": 3422648,
+          "resource_url": "https://api.discogs.com/artists/3422648"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Mais Um Discos",
+          "id": 212750,
+          "catno": "MAIS047LP",
+          "resource_url": "https://api.discogs.com/labels/212750"
+        },
+        {
+          "name": "QTV Label",
+          "id": 768589,
+          "catno": "MAIS047LP",
+          "resource_url": "https://api.discogs.com/labels/768589"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/uRDhY0F3IeSLip8YlFN0SC6kfKn5OZ4uCq3KohqJ7mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjA3/Nzg0LTE2NjIwNzk4/MTAtMTk4Ni5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/abLoe0tvpJLrhhQKO4d_o93IGY8jfERzxHAyyiAMI38/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjA3/Nzg0LTE2NjIwNzk4/MTAtMTk4Ni5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/21207784"
+    },
+    "id": 21207784
   },
   {
     "instance_id": 2009908950,
@@ -2231,6 +2357,51 @@
       "resource_url": "https://api.discogs.com/releases/8577393"
     },
     "id": 8577393
+  },
+  {
+    "instance_id": 2028956778,
+    "rating": 0,
+    "date_added": "2025-06-02T14:37:48-07:00",
+    "basic_information": {
+      "id": 33174063,
+      "title": "ስቴሪዮ የአይቤክስ ባንድ ሙዚቃ = Stereo Instrumental Music",
+      "year": 2025,
+      "artists": [
+        {
+          "name": "Ibex Band",
+          "id": 550105,
+          "resource_url": "https://api.discogs.com/artists/550105"
+        },
+        {
+          "name": "Ibex Band",
+          "id": 550105,
+          "resource_url": "https://api.discogs.com/artists/550105"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Muzikawi",
+          "id": 3198485,
+          "catno": "MUZLP003",
+          "resource_url": "https://api.discogs.com/labels/3198485"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Remastered"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/RkK6cIrKKuESKc9tsZlLHFOgV4Z-Rb6BBkMdzZIYeNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/MDYzLTE3NDA5MzI2/ODItMTM2NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/NvyanWQAGSpp1T-OVz3eLW65PILfHsPwy_yxB_ULibs/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTc0/MDYzLTE3NDA5MzI2/ODItMTM2NS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/33174063"
+    },
+    "id": 33174063
   },
   {
     "instance_id": 1950367701,
@@ -2778,8 +2949,8 @@
           ]
         }
       ],
-      "thumb": "https://i.discogs.com/cqLu7PUWDp-rmewx5BH0LaToMCXEaE740iTiwSCro5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjQ5/MTAwLTE3MzUxMzk5/MTItMzYxMi5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/vH8sG8HrB35RZKExcA9K06U7QTgH6_d6Vl-n-wtU0M8/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjQ5/MTAwLTE3MzUxMzk5/MTItMzYxMi5qcGVn.jpeg",
+      "thumb": "https://i.discogs.com/WUwUvNZ-Vf_S5XdRn--UFHlb6MDB7kRF0sX5OJuQMOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjQ5/MTAwLTE3MzIwMzky/NjgtNjMyMC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/O4T_CEuL2bdaFjGveHm1T3uKwJzk45zrFFilQXKRkxA/rs:fit/g:sm/q:90/h:475/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjQ5/MTAwLTE3MzIwMzky/NjgtNjMyMC5qcGVn.jpeg",
       "resource_url": "https://api.discogs.com/releases/32249100"
     },
     "id": 32249100
@@ -3157,6 +3328,45 @@
       "resource_url": "https://api.discogs.com/releases/25267285"
     },
     "id": 25267285
+  },
+  {
+    "instance_id": 2025132547,
+    "rating": 0,
+    "date_added": "2025-05-21T18:04:32-07:00",
+    "basic_information": {
+      "id": 30354974,
+      "title": "Ghana Special Volume 2 (Electronic Highlife & Afro Sounds In The Diaspora 1980-93)",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "Various",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Soundway",
+          "id": 32575,
+          "catno": "SNDWLP148",
+          "resource_url": "https://api.discogs.com/labels/32575"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "3",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/sVvF_P0FDwuyO7c8JPwvv1wcFifL41W9DWsUtMnaZ8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzU0/OTc0LTE3MTMzNTYw/MTktMzkyOS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/4vZSfGhAb05rWLEu4tExKWB--XKgneZGFSohxp0XsvU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzU0/OTc0LTE3MTMzNTYw/MTktMzkyOS5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/30354974"
+    },
+    "id": 30354974
   },
   {
     "instance_id": 1961110127,
@@ -3594,6 +3804,105 @@
       "resource_url": "https://api.discogs.com/releases/6101052"
     },
     "id": 6101052
+  },
+  {
+    "instance_id": 2029039233,
+    "rating": 0,
+    "date_added": "2025-06-02T21:43:10-07:00",
+    "basic_information": {
+      "id": 31934602,
+      "title": "For Those Who Chant",
+      "year": 2024,
+      "artists": [
+        {
+          "name": "Luis Gasca",
+          "id": 38194,
+          "resource_url": "https://api.discogs.com/artists/38194"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Verve Records",
+          "id": 5041,
+          "catno": "602465689549",
+          "resource_url": "https://api.discogs.com/labels/5041"
+        },
+        {
+          "name": "Blue Thumb Records",
+          "id": 6433,
+          "catno": "BTS 37",
+          "resource_url": "https://api.discogs.com/labels/6433"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/aHf1mP4VoH9mb8sz5Lc9Lw2RvLZWOWOC25yFRvvAycQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTM0/NjAyLTE3Mjg1MTA0/MTYtMjY2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/WD7l63cjh4u8_y9ThgH7zEpxM5Is2xF3APR7FBHxc2I/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTM0/NjAyLTE3Mjg1MTA0/MTYtMjY2MC5qcGVn.jpeg",
+      "resource_url": "https://api.discogs.com/releases/31934602"
+    },
+    "id": 31934602
+  },
+  {
+    "instance_id": 2029035121,
+    "rating": 0,
+    "date_added": "2025-06-02T21:09:11-07:00",
+    "basic_information": {
+      "id": 6419503,
+      "title": "The Dock Of The Bay",
+      "year": 2014,
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "id": 132136,
+          "resource_url": "https://api.discogs.com/artists/132136"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Volt",
+          "id": 33475,
+          "catno": "VOLT 419",
+          "resource_url": "https://api.discogs.com/labels/33475"
+        },
+        {
+          "name": "Rhino Vinyl",
+          "id": 152823,
+          "catno": "R1 419",
+          "resource_url": "https://api.discogs.com/labels/152823"
+        },
+        {
+          "name": "Volt",
+          "id": 33475,
+          "catno": "8122795639",
+          "resource_url": "https://api.discogs.com/labels/33475"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "thumb": "https://i.discogs.com/nuxIiwEAlK_u7K_4GQp9m_eRWYq7CxxtAogFDaRCO9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTk1/MDMtMTQ3MjIyOTIw/Ny03ODAwLnBuZw.jpeg",
+      "cover_image": "https://i.discogs.com/o9hO8qEOM0Y1O3B-j-hp75YRUuDsYTryXUOZb0wk0tA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MTk1/MDMtMTQ3MjIyOTIw/Ny03ODAwLnBuZw.jpeg",
+      "resource_url": "https://api.discogs.com/releases/6419503"
+    },
+    "id": 6419503
   },
   {
     "instance_id": 2008350375,
